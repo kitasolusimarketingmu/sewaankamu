@@ -178,4 +178,14 @@ $(document).ready(function(){
 			}
 		}			
 	});
+	
+	var str_image = '';
+	for (var i = 0; i < mystery_box_items.length; i++) {
+		str_image += '<img class="image_bantu_load" src="'+base_url+'/'+mystery_box_items[i]['image']+'"/>';
+	}
+
+	$('body').append(str_image);
+	setTimeout(function(){
+		$('.image_bantu_load').css('display', 'none');
+	}, 2000);
 });
