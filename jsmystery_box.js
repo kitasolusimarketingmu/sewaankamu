@@ -111,10 +111,10 @@ $(document).ready(function(){
 	$('.cover-gacha').click(function() {
 		if (status_winner <= min_win && status_clicked && !box_opened.includes(this)) {
 
-			for (var i = 0; i < mystery_box_items.length; i++) {
+			/*for (var i = 0; i < mystery_box_items.length; i++) {
 				if (mystery_box_items[i]['level'] == mystery_box_winner_items.level)
 					mystery_box_items.splice(i,i);
-			}
+			}*/
 
 			var status_min_win = true;
 			for (var i = 0; i < mystery_box_items.length; i++) {
