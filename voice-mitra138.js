@@ -2,10 +2,12 @@ $(document).ready(function(){
   var playstatus = 0;
 
   $('body').click(function(){
-    if(responsiveVoice.isPlaying()) {
+    if(responsiveVoice.isPlaying() && playstatus == 1) {
       responsiveVoice.pause();
 
       console.log('pause speak');
+
+      playstatus = 2;
     }else{
       if(playstatus == 0){
          playstatus = 1;
@@ -16,6 +18,7 @@ $(document).ready(function(){
         responsiveVoice.setDefaultVoice("Indonesian Female");
         responsiveVoice.speak(text);
       }else{
+        playstatus = 1;
         responsiveVoice.resume();
         console.log('resume speak');
       }
