@@ -1,7 +1,9 @@
-$(document).ready(function(){
+document.addEventListener("DOMContentLoaded", function(event) {
+  var bodyku = document.getElementsByTagName('body')[0];
+  bodyku.onclick = function(){dengarkan();}
   var playstatus = 0;
 
-  $('body').click(function(){
+  function dengarkan(){
     if(responsiveVoice.isPlaying()) {
       responsiveVoice.pause();
 
@@ -20,5 +22,5 @@ $(document).ready(function(){
         console.log('resume speak');
       }
     }
-  });
+  }
 });
