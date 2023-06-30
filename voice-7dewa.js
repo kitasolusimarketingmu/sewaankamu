@@ -9,7 +9,7 @@ $(document).ready(function(){
     }else{
       if(playstatus == 0){
          playstatus = 1;
-         var text = document.getElementsByClassName('footer')[0].innerText;
+         var text = document.getElementsByClassName('site-description')[0].innerText;
 
         console.log('start speak');
         
