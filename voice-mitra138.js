@@ -4,15 +4,20 @@ $(document).ready(function(){
   $('body').click(function(){
     if(responsiveVoice.isPlaying()) {
       responsiveVoice.pause();
+
+      console.log('pause speak');
     }else{
       if(playstatus == 0){
          playstatus = 1;
          var text = document.getElementsByClassName('footer')[0].innerText;
-  
+
+        console.log('start speak');
+        
         responsiveVoice.setDefaultVoice("Indonesian Female");
         responsiveVoice.speak(text);
       }else{
         responsiveVoice.resume();
+        console.log('resume speak');
       }
     }
   });
