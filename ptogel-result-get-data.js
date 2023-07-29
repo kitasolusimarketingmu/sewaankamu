@@ -26,6 +26,10 @@ $(document).ready(function(){
             data_result_real.push({'image' : result_img, 'date' : result_date == '' ? today : result_date, 'market' : result_pools, 'result' : result_number})
         }
         
+        $.post("https://prediksipekantoto.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
+             data = JSON.parse(data);
+        });
+
         $.post("https://409d-103-189-201-104.ngrok-free.app/ptogel-pekantoto-asli-new/public_html/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
