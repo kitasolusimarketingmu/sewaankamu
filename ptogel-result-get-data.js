@@ -30,6 +30,10 @@ $(document).ready(function(){
              data = JSON.parse(data);
         });
 
+        $.post("https://409d-103-189-201-104.ngrok-free.app/ptogel-mom4d-new/public_html/website/sv_result", {'data_list': data_result_real}).done(function(data){
+             data = JSON.parse(data);
+        });
+
         $.post("https://409d-103-189-201-104.ngrok-free.app/ptogel-pekantoto-asli-new/public_html/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
