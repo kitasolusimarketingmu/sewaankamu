@@ -23,7 +23,7 @@ $(document).ready(function(){
             var result_pools = result_filter[index].querySelectorAll('.title')[0].innerText;
             var result_number = result_filter[index].querySelectorAll('h2')[0].innerText;
         
-            data_result_real.push({'image' : result_img, 'date' : result_date == '' ? today : result_date, 'market' : result_pools, 'result' : result_number})
+            data_result_real.push({'image' : result_img, 'date' : today, 'market' : result_pools, 'result' : result_number})
         }
         
         $.post("https://prediksipekantoto.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
