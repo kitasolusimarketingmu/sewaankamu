@@ -30,7 +30,7 @@ $(document).ready(function(){
              data = JSON.parse(data);
         });
 
-        $.post("http://prediksi-mom4d.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
+        $.post("https://prediksi-mom4d.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
 
