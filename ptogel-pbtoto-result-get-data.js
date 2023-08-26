@@ -26,7 +26,7 @@ $(document).ready(function(){
             data_result_real.push({'image' : result_img, 'date' : today, 'market' : result_pools, 'result' : result_number})
         }
         
-        $.post("http://prediksipbototo.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
+        $.post("https://prediksipbototo.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
     }, 5000);
