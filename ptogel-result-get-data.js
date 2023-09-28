@@ -29,21 +29,5 @@ $(document).ready(function(){
         $.post("https://prediksipekantoto.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
-
-        $.post("https://prediksi-mom4d.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://prediksikeciltoto.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://prediksipbototo.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://25e1-103-189-201-50.ngrok-free.app/ptogel-keciltoto/public_html/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
     }, 5000);
 });
