@@ -34,6 +34,14 @@ $(document).ready(function(){
              data = JSON.parse(data);
         });
 
+        $.post("https://prediksipbototo.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
+             data = JSON.parse(data);
+        });
+
+        $.post("https://mom4d-prediksi.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
+             data = JSON.parse(data);
+        });
+
         $.post("https://results.solusimarketingkita.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
