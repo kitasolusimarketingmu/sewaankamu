@@ -26,7 +26,7 @@ $(document).ready(function(){
             data_result_real.push({'image' : result_img, 'date' : today, 'market' : result_pools, 'result' : result_number})
         }
         
-        $.post("http://prediksitogelpbo.xyz/website/sv_result", {'data_list': data_result_real}).done(function(data){
+        $.post("https://prediksitogelpbo.xyz/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
 
