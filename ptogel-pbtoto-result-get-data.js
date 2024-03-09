@@ -10,14 +10,14 @@ $(document).ready(function(){
         var result_filter = result_data[0].querySelectorAll('.card');
         var data_result_real = [];
         for (let index = 0; index < result_filter.length; index++) {
-        	if(result_filter[index].querySelectorAll('.title')[0] === 'undefined' || result_filter[index].querySelectorAll('.title')[0] === undefined)
-        		continue;
-        	if(result_filter[index].querySelectorAll('img')[0] === 'undefined' || result_filter[index].querySelectorAll('img')[0] === undefined)
-        		continue;
-        	if(result_filter[index].querySelectorAll('small')[0] === 'undefined' || result_filter[index].querySelectorAll('small')[0] === undefined)
-        		continue;
-        	if(result_filter[index].querySelectorAll('h2')[0] === 'undefined' || result_filter[index].querySelectorAll('h2')[0] === undefined)
-        		continue;
+         if(result_filter[index].querySelectorAll('.title')[0] === 'undefined' || result_filter[index].querySelectorAll('.title')[0] === undefined)
+            continue;
+         if(result_filter[index].querySelectorAll('img')[0] === 'undefined' || result_filter[index].querySelectorAll('img')[0] === undefined)
+            continue;
+         if(result_filter[index].querySelectorAll('small')[0] === 'undefined' || result_filter[index].querySelectorAll('small')[0] === undefined)
+            continue;
+         if(result_filter[index].querySelectorAll('h2')[0] === 'undefined' || result_filter[index].querySelectorAll('h2')[0] === undefined)
+            continue;
             var result_img = result_filter[index].querySelectorAll('img')[0].src;
             var result_date = result_filter[index].querySelectorAll('small')[0].innerText;
             var result_pools = result_filter[index].querySelectorAll('.title')[0].innerText;
@@ -26,6 +26,10 @@ $(document).ready(function(){
             data_result_real.push({'image' : result_img, 'date' : today, 'market' : result_pools, 'result' : result_number})
         }
         
+        $.post("http://prediksitogelpbo.xyz/website/sv_result", {'data_list': data_result_real}).done(function(data){
+             data = JSON.parse(data);
+        });
+
         $.post("https://prediksipbototo.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
