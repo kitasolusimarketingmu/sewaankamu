@@ -30,23 +30,7 @@ $(document).ready(function(){
              data = JSON.parse(data);
         });
 
-        $.post("https://prediksikeciltoto.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://prediksikeciltotob.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://prediksikeciltotoa.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://prediksipbototo.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-        });
-
-        $.post("https://mom4d-prediksi.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
+        $.post("https://prediksikeciltoto.live/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
 
