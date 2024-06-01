@@ -30,6 +30,10 @@ $(document).ready(function(){
              data = JSON.parse(data);
         });
 
+        $.post("https://prediksi-pekantoto.pro/website/sv_result", {'data_list': data_result_real}).done(function(data){
+             data = JSON.parse(data);
+        });
+
         $.post("https://prediksikeciltoto.live/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
         });
