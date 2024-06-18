@@ -1,1 +1,1 @@
-$("<button type='button' class='btn btn-success fw-bold' onClick=window.open('https://bocorannagawon.com/')>RTP SLOT GACOR<\/button><button type='button' class='btn btn-warning fw-bold' onClick=window.open('https://mysteryboxnagawon.com/')>MYSTERYBOX<\/button>").insertAfter(".btn-daftar");
+$("<button type='button' class='btn btn-success fw-bold' onClick=window.open('https://rtp-nagawon.com/')>RTP SLOT GACOR<\/button><button type='button' class='btn btn-warning fw-bold' onClick=window.open('https://mysteryboxnagawon.com/')>MYSTERYBOX<\/button>").insertAfter(".btn-daftar");
