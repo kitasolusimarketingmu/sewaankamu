@@ -1,5 +1,5 @@
-$(document).ready(function(){
-     setTimeout(function(){
+//$(document).ready(function(){
+//     setTimeout(function(){
           var today = new Date();
           var dd = String(today.getDate()).padStart(2, '0');
           var mm = String(today.getMonth() + 1).padStart(2, '0');
@@ -36,5 +36,5 @@ $(document).ready(function(){
           $.post("https://results.solusimarketingkita.com/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
           });
-    }, 5000);
-});
+//    }, 5000);
+//});
