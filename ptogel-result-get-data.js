@@ -28,14 +28,8 @@ $(document).ready(function(){
 
               data_result_real.push({'image' : result_img, 'date' : today, 'market' : result_pools, 'result' : result_number})
           }
-
-          consloe.log(data_result_real);
         
           $.post("https://2-prediksi-pekantoto.xyz/website/sv_result", {'data_list': data_result_real}).done(function(data){
-             data = JSON.parse(data);
-          });
-
-          $.post("https://prediksikeciltoto.live/website/sv_result", {'data_list': data_result_real}).done(function(data){
              data = JSON.parse(data);
           });
 
