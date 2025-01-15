@@ -7,7 +7,6 @@
     }
 
     document.addEventListener("DOMContentLoaded", function() {
-    	console.log('Masoook pak eko');
     	setTimeout(function() {
 	        if (isPromotionPage() && isDesktop()) {
 	        	var style = document.createElement("style");
