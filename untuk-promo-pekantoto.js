@@ -12,6 +12,9 @@
 	        	var style = document.createElement("style");
 			    style.type = "text/css";
 			    style.innerHTML = `
+				.search-results{
+    				   padding: 70px 0;
+				}
 			        .wimage {
 			            border-radius: 0px;
 			        }
