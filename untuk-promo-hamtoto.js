@@ -6,6 +6,7 @@ function isDesktop() {
 	return window.innerWidth >= 1024;
 }
 
+
 if (isPromotionPage() && isDesktop()) {
 	var style = document.createElement("style");
 	    style.type = "text/css";
