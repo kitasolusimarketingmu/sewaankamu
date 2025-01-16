@@ -71,7 +71,7 @@
 				}
 
 				function getInitialValue() {
-				const startDate = new Date();
+				const startDate = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0);
 				const now = new Date();
 				const diffInSeconds = Math.floor((now - startDate) / 1000);
 				return 20000000000 + diffInSeconds * 1000;
@@ -262,7 +262,7 @@
 				}
 
 				function getInitialValue() {
-					const startDate = new Date();
+					const startDate = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0);
 					const now = new Date();
 					const diffInSeconds = Math.floor((now - startDate) / 1000);
 					return 20000000000 + diffInSeconds * 1000;
