@@ -71,7 +71,7 @@
 				}
 
 				function getInitialValue() {
-				const startDate = new Date('2025-01-01T00:00:00Z');
+				const startDate = new Date();
 				const now = new Date();
 				const diffInSeconds = Math.floor((now - startDate) / 1000);
 				return 20000000000 + diffInSeconds * 1000;
