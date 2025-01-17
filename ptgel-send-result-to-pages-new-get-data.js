@@ -1,4 +1,4 @@
-$(document).ready(function(){
+document.addEventListener("DOMContentLoaded", function(event) {
           setTimeout(function() {
               var today = new Date();
               var dd = String(today.getDate()).padStart(2, '0');
@@ -36,16 +36,17 @@ $(document).ready(function(){
                       'result': result_number
                   });
               }
-              $.post("https://2-prediksi-pekantoto.xyz/website/sv_result", {
-                  'data_list': data_result_real
-              }).done(function(data) {
-                  data = JSON.parse(data);
-              });
-              $.post("https://prediksi-hamtoto.pro/website/sv_result", {
-                  'data_list': data_result_real
-              }).done(function(data) {
-                  data = JSON.parse(data);
-              });
+
+              var urlEncodedData = data_result_real
+              .map((item, index) => {
+                return Object.keys(item)
+                  .map(key => `data_list[${index}][${key}]=${encodeURIComponent(item[key])}`)
+                  .join('&');
+              })
+              .join('&');
+                    
+              fetch("https://2-prediksi-pekantoto.xyz/website/sv_result",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:urlEncodedData}).then((t=>{if(!t.ok)throw new Error(`HTTP error! Status: ${t.status}`);return t.json()})).then((t=>{console.log(t)})).catch((t=>{console.error("Error:",t)}));
+              fetch("https://prediksi-hamtoto.pro/website/sv_result",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:urlEncodedData}).then((t=>{if(!t.ok)throw new Error(`HTTP error! Status: ${t.status}`);return t.json()})).then((t=>{console.log(t)})).catch((t=>{console.error("Error:",t)}));
           }, 5000);
           
           /*setTimeout(function(){
