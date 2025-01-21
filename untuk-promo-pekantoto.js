@@ -234,7 +234,7 @@
 			divElement.style.fontWeight = "bold";
 			divElement.style.color = "#ffffff";
 			divElement.style.textShadow = "2px 2px 4px rgba(0, 0, 0, 0.7)";
-			divElement.style.paddingTop = "-15px";
+			divElement.style.paddingTop = "-10px";
 			divElement.style.marginTop = "5px";
 			divElement.style.marginBottom = "5px";
 			divElement.style.fontFamily = "Muli";
