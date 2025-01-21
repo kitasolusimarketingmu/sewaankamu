@@ -179,7 +179,7 @@
 			    document.head.appendChild(style);
 			}
 
-			var buttonjoin = document.querySelectorAll('.buttonjoin')[1];
+			/*var buttonjoin = document.querySelectorAll('.buttonjoin')[1];
 			function reorderElements(containerId, newOrder) {
 			  const container = containerId;
 			  if (!container) {
@@ -217,7 +217,7 @@
 			  fontFamily: "aller",
 			  fontSize: "20px",
 			  paddingTop: "10px"
-			});
+			});*/
 
 			var buttonjoin = document.querySelectorAll('.buttonjoin')[1];
 			const divElement = document.createElement("div");
