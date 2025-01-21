@@ -77,7 +77,7 @@
 			const now = new Date();
 			const startDate = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0);
 			const diffInSeconds = Math.floor((now - startDate) / 1000);
-			return 500000000 + diffInSeconds * 1000;
+			return 1500000000 + diffInSeconds * 1000;
 			}
 
 			const latestResults = document.getElementById('latest-results');
@@ -268,7 +268,7 @@
 				const now = new Date();
 				const startDate = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0);
 				const diffInSeconds = Math.floor((now - startDate) / 1000);
-				return 500000000 + diffInSeconds * 1000;
+				return 1500000000 + diffInSeconds * 1000;
 			}
 
 			let currentValue = getInitialValue();
