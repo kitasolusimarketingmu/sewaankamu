@@ -86,7 +86,7 @@
 				setInterval(() => {
 					currentValue += Math.floor(Math.random() * 1000) + 1;
 					divElement.textContent = formatRupiah(currentValue);
-				}, 400);
+				}, 100);
 	        }else{
 	        	if (isPromotionPage()) {
 	        		var style = document.createElement("style");
@@ -274,7 +274,7 @@
 				setInterval(() => {
 					currentValue += Math.floor(Math.random() * 1000) + 1;
 					divElement.textContent = formatRupiah(currentValue);
-				}, 400);
+				}, 100);
 	        }
     	}, 200);
     });
