@@ -202,7 +202,9 @@
 				buttonjoin.children[1].style.marginBottom = "10px";
 
 				buttonjoin.children[0].classList.remove("buttonWrap", "buttong", "button-green");
-				Object.assign(buttonjoin.children[0].style, {
+				buttonjoin.children[1].classList.remove("buttonWrap", "buttong", "button-green");
+				buttonjoin.children[2].classList.remove("buttonWrap", "buttong", "button-green");
+				var styleNya11 = {
 				  background: "linear-gradient(to bottom, #fdef02 0%, #ffae00 100%)",
 				  color: "white",
 				  width: "100%",
@@ -214,7 +216,10 @@
 				  fontFamily: "aller",
 				  fontSize: "20px",
 				  paddingTop: "10px"
-				});
+				};
+				Object.assign(buttonjoin.children[0].style, styleNya11);
+				Object.assign(buttonjoin.children[1].style, styleNya11);
+				Object.assign(buttonjoin.children[2].style, styleNya11);
 
 				var buttonjoin = document.querySelectorAll('.buttonjoin')[1];
 				const divElement = document.createElement("div");
