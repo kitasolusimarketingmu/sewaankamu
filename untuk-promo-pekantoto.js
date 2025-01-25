@@ -42,7 +42,7 @@
 			const divElement = document.createElement("div");
 			divElement.textContent = "2025";
 			divElement.style.width = "100%";
-			divElement.style.height = "120px";
+			divElement.style.height = "130px";
 			divElement.style.backgroundImage = "url('https://myrecaphost.cloud/pekantoto/ms/banner/giphy/jp-pekan.gif')";
 			divElement.style.backgroundSize = "100%";
 			divElement.style.backgroundRepeat = "no-repeat";
@@ -54,7 +54,7 @@
 			divElement.style.color = "#ffffff";
 			divElement.style.textShadow = "2px 2px 4px rgba(0, 0, 0, 0.7)";
 			divElement.style.paddingTop = "-15px";
-			divElement.style.marginTop = "5px";
+			divElement.style.marginTop = "30px";
 			divElement.style.marginBottom = "5px";
 			divElement.style.fontFamily = "Muli";
 
