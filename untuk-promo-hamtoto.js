@@ -40,7 +40,7 @@
 				divElement.textContent = "2025";
 				divElement.style.width = "100%";
 				divElement.style.height = "120px";
-				divElement.style.backgroundImage = "url('https://imggalery.com/uploads/user_61/album_87/1737035880.gif')";
+				divElement.style.backgroundImage = "url('https://myrecaphost.cloud/hamtoto/ms/images/jackpot.gif')";
 				divElement.style.backgroundSize = "100%";
 				divElement.style.backgroundRepeat = "no-repeat";
 				divElement.style.display = "flex";
@@ -226,7 +226,7 @@
 				divElement.textContent = "2025";
 				divElement.style.width = "100%";
 				divElement.style.height = "45px";
-				divElement.style.backgroundImage = "url('https://imggalery.com/uploads/user_61/album_87/1737035880.gif')";
+				divElement.style.backgroundImage = "url('https://myrecaphost.cloud/hamtoto/ms/images/jackpot.gif')";
 				divElement.style.backgroundSize = "100%";
 				divElement.style.backgroundRepeat = "no-repeat";
 				divElement.style.display = "flex";
