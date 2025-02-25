@@ -301,11 +301,8 @@
 			  reorderedChildren.forEach(child => container.appendChild(child));
 			}
 			Object.assign(buttonjoin.children[4].style, {marginBottom:'10px'});
-			buttonjoin.children[1].classList.remove("buttonWrap");
-			buttonjoin.children[1].className = 'buttong';
-
-			buttonjoin.children[5].classList.remove("buttonWrap");
-			buttonjoin.children[5].className = 'buttong';
+			buttonjoin.children[1].className = 'buttong buttondapk button-yellow contactSubmitButton';
+			buttonjoin.children[5].className = 'buttong buttondapk button-yellow contactSubmitButton';
 			reorderElements(buttonjoin, [0, 2, 4, 1, 3, 5]);
 	        }
     	}, 200);
