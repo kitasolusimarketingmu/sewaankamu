@@ -279,8 +279,27 @@
 				divElement.textContent = formatRupiah(currentValue);
 			}, 100);
 
-			buttonjoin = document.querySelectorAll('.buttonjoin')[1];
-			Object.assign(buttonjoin.children[4].style, {marginBottom:'10px'});
+			var buttonjoin = document.querySelectorAll('.buttonjoin')[1];
+			function reorderElements(containerId, newOrder) {
+			  const container = containerId;
+			  if (!container) {
+			    console.error(`Container dengan ID '${containerId}' tidak ditemukan.`);
+			    return;
+			  }
+			  const children = Array.from(container.children);
+			  if (newOrder.length !== children.length) {
+			    console.error("Urutan baru tidak sesuai dengan jumlah elemen dalam container.");
+			    return;
+			  }
+			  const reorderedChildren = newOrder.map(index => {
+			    if (index < 0 || index >= children.length) {
+			      console.error(`Indeks ${index} tidak valid.`);
+			    }
+			    return children[index];
+			  });
+			  container.innerHTML = "";
+			  reorderedChildren.forEach(child => container.appendChild(child));
+			}
 			reorderElements(buttonjoin, [0, 1, 2, 4, 3, 5]);
 	        }
     	}, 200);
