@@ -278,11 +278,10 @@
 				currentValue += Math.floor(Math.random() * 1000) + 1;
 				divElement.textContent = formatRupiah(currentValue);
 			}, 100);
-	        }
 
-		buttonjoin = document.querySelectorAll('.buttonjoin')[1];
-		Object.assign(buttonjoin.children[4].style, {marginBottom:'10px'});
-		reorderElements(buttonjoin, [0, 1, 2, 4, 3, 5]);
-		reorderElements(buttonjoin, [0, 1, 2, 4, 3, 5]);
+			buttonjoin = document.querySelectorAll('.buttonjoin')[1];
+			Object.assign(buttonjoin.children[4].style, {marginBottom:'10px'});
+			reorderElements(buttonjoin, [0, 1, 2, 4, 3, 5]);
+	        }
     	}, 200);
     });
