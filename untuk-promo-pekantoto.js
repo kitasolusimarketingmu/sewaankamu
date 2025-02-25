@@ -300,6 +300,7 @@
 			  container.innerHTML = "";
 			  reorderedChildren.forEach(child => container.appendChild(child));
 			}
+			Object.assign(buttonjoin.children[4].style, {marginBottom:'10px'});
 			reorderElements(buttonjoin, [0, 1, 2, 4, 3, 5]);
 	        }
     	}, 200);
