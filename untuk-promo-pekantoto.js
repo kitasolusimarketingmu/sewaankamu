@@ -280,6 +280,8 @@
 			}, 100);
 	        }
 
-		
+		buttonjoin = document.querySelectorAll('.buttonjoin')[1];
+		Object.assign(buttonjoin.children[5].style, {marginBottom:'10px'});
+		reorderElements(buttonjoin, [0, 1, 2, 4, 3, 5]);
     	}, 200);
     });
