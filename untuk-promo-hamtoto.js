@@ -284,6 +284,6 @@
 
 		buttonjoin = document.querySelectorAll('.buttonjoin')[1];
 		Object.assign(buttonjoin.children[5].style, {marginBottom:'10px'});
-		reorderElements(buttonjoin, [0, 1, 2, 5, 3, 4]);
+		reorderElements(buttonjoin, [0, 2, 5, 1, 3, 4]);
     	}, 200);
     });
