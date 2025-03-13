@@ -6,6 +6,21 @@
         return window.innerWidth >= 1024;
     }
 
+function addElementAtIndex(containerId, newElement, index) {
+			  const container = containerId;
+			  if (!container) {
+			    console.error(`Container dengan ID '${containerId}' tidak ditemukan.`);
+			    return;
+			  }
+
+			  const referenceNode = container.children[index];
+			  if (referenceNode) {
+			    container.insertBefore(newElement, referenceNode);
+			  } else {
+			    container.appendChild(newElement);
+			  }
+			}
+
     document.addEventListener("DOMContentLoaded", function() {
     	setTimeout(function() {
 	        if (isDesktop()) {
@@ -239,20 +254,7 @@
 			divElement.style.marginBottom = "5px";
 			divElement.style.fontFamily = "Muli";
 
-			function addElementAtIndex(containerId, newElement, index) {
-			  const container = containerId;
-			  if (!container) {
-			    console.error(`Container dengan ID '${containerId}' tidak ditemukan.`);
-			    return;
-			  }
-
-			  const referenceNode = container.children[index];
-			  if (referenceNode) {
-			    container.insertBefore(newElement, referenceNode);
-			  } else {
-			    container.appendChild(newElement);
-			  }
-			}
+			
 
 			addElementAtIndex(buttonjoin, divElement, 2);
 
