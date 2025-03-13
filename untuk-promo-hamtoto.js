@@ -285,5 +285,36 @@
 		buttonjoin = document.querySelectorAll('.buttonjoin')[1];
 		Object.assign(buttonjoin.children[5].style, {marginBottom:'10px'});
 		reorderElements(buttonjoin, [0, 2, 5, 1, 3, 4]);
+
+		const htmlContent = `
+		        <div style="margin-top: 6px;text-align: center;margin-bottom: 0px;">
+		            <p style="color: white; font-size: 21px; text-shadow: 0px 0px 20px #faf2ca;">
+		                <b style="-webkit-text-stroke-color: yellow; color: #ffffff;font-size: 15px;font-weight: 600;">
+		                    Cari HAMTOTO Disini
+		                </b>
+		            </p>
+		        </div>
+		        <div class="buttonWrap buttons contactSubmitButton" 
+		            style="border: 2px solid;animation: borderanimation 5s linear infinite;background: #000000!important;border: 1px solid #800000;">
+		            <p style="text-align:center;">
+		                <b>
+		                    <a href="https://carikita.id/" style="color: #FFFFFF;display: flex;justify-content: center;">
+		                        <span style="text-transform:uppercase;font-size:19px;letter-spacing: 3.2px;color: white;margin-left: 37px;">
+		                            carikita.id
+		                        </span>
+		                    </a>
+		                </b>
+		            </p>
+		            <div style="position: absolute;top: 0px;left: 0px;background: linear-gradient(to bottom,#c1c1c1 0%,#8f8f8f 50%,#ffffff 100%);
+		                border-radius: 17px 0 0 17px;padding: 10px 13px;box-shadow: 1px 0 5px #000000;z-index: 1000;">
+		                <b>
+		                    <a href="https://carikita.id/" style=" color: #FFFFFF;display: flex;justify-content: center;">
+		                        <img src="https://imgku.io/download/8jKiqH4G.png" alt="" style="width: 20px;">
+		                    </a>
+		                </b>
+		            </div>
+		        </div>
+		    `;
+		addElementAtIndex(buttonjoin, htmlContent, 3);
     	}, 200);
     });
