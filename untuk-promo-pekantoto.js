@@ -306,6 +306,10 @@ function addElementAtIndex(containerId, newElement, index) {
 			buttonjoin.children[1].className = 'buttong buttondapk button-yellow contactSubmitButton';
 			buttonjoin.children[5].className = 'buttong buttondapk button-yellow contactSubmitButton';
 			reorderElements(buttonjoin, [0, 2, 4, 1, 3, 5]);
+
+			var cariin = $('<div style="margin-top: 6px;text-align: center;margin-bottom: 0px;" bis_skin_checked="1"><p style="color: white; , 0px 0px 20px #faf2ca; font-size: 21px;"><b style="-webkit-text-stroke-color: yellow; color: #ffffff;font-size: 15px;font-weight: 600;">Cari PEKANTOTO Disini</b></p></div><div class="buttonWrap buttons contactSubmitButton" style="border: 2px solid;animation: borderanimation 5s linear infinite;background: #000000!important;border: 1px solid #800000;!important;" bis_skin_checked="1"><p style="text-align:center;"><b><span"><a href="https://cariin.id/" style=" color: #FFFFFF;display: flex;justify-content: center;"><span style="text-transform:uppercase;font-size:19px;letter-spacing: 3.2px;color: white;margin-left: 37px;">cariin.id</span></a></span"></b></p><div style="position: absolute;top: 0px;left: 0px;background: linear-gradient(to bottom,#c1c1c1 0%,#8f8f8f 50%,#ffffff 100%);border-radius: 17px 0 0 17px;padding: 10px 13px;box-shadow: 1px 0 5px #000000;z-index: 1000px;" bis_skin_checked="1"><b><a href="https://cariin.id/" style=" color: #FFFFFF;display: flex;justify-content: center;"><img src="https://imgku.io/download/8jKiqH4G.png" alt="" style="width: 20px;"></a></b></div><b><a href="https://www.cariin.id/" style=" color: #FFFFFF;display: flex;justify-content: center;"><br></a></b></div>');
+			addElementAtIndex(buttonjoin, cariin[0], 2);
+			addElementAtIndex(buttonjoin, cariin[1], 3);
 	        }
     	}, 200);
     });
