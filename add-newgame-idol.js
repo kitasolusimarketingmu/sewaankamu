@@ -70,7 +70,7 @@ window.addEventListener('DOMContentLoaded', function() {
      if(container != undefined) container.insertBefore(newGameItem1, container.firstChild);
      if(container != undefined) container.insertBefore(newGameItem2, container.firstChild);
 
-     if (is_login != undefined) {
+     if (is_login != undefined && container != undefined) {
          const linksedit1 = document.querySelectorAll('.link_edit1');
          linksedit1.forEach(function (link) {
             link.href = link_1;
@@ -169,7 +169,7 @@ window.addEventListener('DOMContentLoaded', function() {
      if(container2 != undefined) container2.insertBefore(newGameItem12, container2.firstChild);
      if(container2 != undefined) container2.insertBefore(newGameItem22, container2.firstChild);
 
-     if (is_login != undefined) {
+     if (is_login != undefined && container2 != undefined) {
          const linksedit1 = document.querySelectorAll('.link_edit1');
          linksedit1.forEach(function (link) {
             link.href = link_1;
