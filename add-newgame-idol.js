@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="game-item" data-game="Mahjong Wins 3 Black Scatter" bis_skin_checked="1">
                <div class="wrapper-container" bis_skin_checked="1">
                   <picture>
-                     <img alt="Mahjong Wins 3 Black Scatter" height="150" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748777520.gif" width="150">
+                     <img alt="Mahjong Wins 3 Black Scatter" height="150" loading="lazy" src="https://www.kliker.store/img/gifmee.gif" width="150">
                   </picture>
                   <div class="link-container" bis_skin_checked="1">
                      <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="play-now" data-game="Mahjong Wins 3 Black Scatter" bis_skin_checked="1">
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   <input type="radio" name="game-list-radio-button">
                   <span class="wrapper-container">
                      <picture>
-                        <img alt="Mahjong Wins 3 Black Scatter" height="100" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748777520.gif" width="100" style="background: transparent;">
+                        <img alt="Mahjong Wins 3 Black Scatter" height="100" loading="lazy" src="https://www.kliker.store/img/gifmee.gif" width="100" style="background: transparent;">
                      </picture>
                      <span class="link-container">
                      <a href="/mobile/login" class="play-now" data-game="Mahjong Wins 3 Black Scatter">
