@@ -1,4 +1,4 @@
-//window.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', function() {
       const htmlString = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
@@ -65,11 +65,11 @@
      const container = document.getElementsByClassName('game-list')[0];
      if(container != undefined) container.insertBefore(newGameItem1, container.firstChild);
      if(container != undefined) container.insertBefore(newGameItem2, container.firstChild);
-   //});
+   });
 
 
 
-//window.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', function() {
       const htmlString2 = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item game_item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
@@ -148,4 +148,4 @@
      const container2 = document.getElementsByClassName('game_list game-list')[0];
      if(container2 != undefined) container2.insertBefore(newGameItem12, container2.firstChild);
      if(container2 != undefined) container2.insertBefore(newGameItem22, container2.firstChild);
-   //});
+   });
