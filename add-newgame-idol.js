@@ -1,5 +1,5 @@
 //DESKTOP
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', function() {
       const htmlString = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
    });
 
 //MOBILE
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', function() {
       const htmlString = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item game_item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
