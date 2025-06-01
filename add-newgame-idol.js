@@ -1,4 +1,8 @@
 window.addEventListener('DOMContentLoaded', function() {
+      var is_login = (document.getElementsByClassName('username-container')[0] != undefined) ? document.getElementsByClassName('username-container')[0].innerText : undefined;
+      var link_1 = "javascript:openPopup('/dispatch/game/PGSOFT/Desktop/PGSOFT_65', 'Slots')";
+      var link_2 = "javascript:openPopup('/dispatch/game/PGSOFT/Desktop/PGSOFT_74', 'Slots')";
+
       const htmlString = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
@@ -7,7 +11,7 @@ window.addEventListener('DOMContentLoaded', function() {
                      <img alt="Mahjong Ways 2 x10000" height="150" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748774220.webp" width="150">
                   </picture>
                   <div class="link-container" bis_skin_checked="1">
-                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="play-now" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
+                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="link_edit1 play-now" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
                      MAIN
                      </a>
                   </div>
@@ -20,7 +24,7 @@ window.addEventListener('DOMContentLoaded', function() {
                      <img alt="Mahjong Ways 2 x5000" height="150" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748774220_1.webp" width="150">
                   </picture>
                   <div class="link-container" bis_skin_checked="1">
-                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="play-now" data-game="Mahjong Ways 2 x5000" bis_skin_checked="1">
+                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="link_edit1 play-now" data-game="Mahjong Ways 2 x5000" bis_skin_checked="1">
                      MAIN
                      </a>
                   </div>
@@ -35,7 +39,7 @@ window.addEventListener('DOMContentLoaded', function() {
                      <img alt="Mahjong Wins 3 Black Scatter" height="150" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748777520.gif" width="150">
                   </picture>
                   <div class="link-container" bis_skin_checked="1">
-                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="play-now" data-game="Mahjong Wins 3 Black Scatter" bis_skin_checked="1">
+                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="link_edit2 play-now" data-game="Mahjong Wins 3 Black Scatter" bis_skin_checked="1">
                      MAIN
                      </a>
                   </div>
@@ -48,7 +52,7 @@ window.addEventListener('DOMContentLoaded', function() {
                      <img alt="Mahjong Wins 3 Black Scatter" height="150" loading="lazy" src="https://www.kliker.store/img/gifmee.gif" width="150">
                   </picture>
                   <div class="link-container" bis_skin_checked="1">
-                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="play-now" data-game="Mahjong Wins 3 Black Scatter" bis_skin_checked="1">
+                     <a href="javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });" class="link_edit2 play-now" data-game="Mahjong Wins 3 Black Scatter" bis_skin_checked="1">
                      MAIN
                      </a>
                   </div>
@@ -65,11 +69,27 @@ window.addEventListener('DOMContentLoaded', function() {
      const container = document.getElementsByClassName('game-list')[0];
      if(container != undefined) container.insertBefore(newGameItem1, container.firstChild);
      if(container != undefined) container.insertBefore(newGameItem2, container.firstChild);
+
+     if (is_login != undefined) {
+         const linksedit1 = document.querySelectorAll('.link_edit1');
+         linksedit1.forEach(function (link) {
+            link.href = link_1;
+         });
+
+         const linksedit2 = document.querySelectorAll('.link_edit2');
+         linksedit2.forEach(function (link) {
+            link.href = link_2;
+         });
+     }
    });
 
 
 
 window.addEventListener('DOMContentLoaded', function() {
+      var is_login = (document.getElementsByClassName('lp-label')[0] != undefined) ? document.getElementsByClassName('lp-label')[0].innerText : undefined;
+      var link_1 = "javascript:openPopup('/dispatch/game/PGSOFT/Mobile/PGSOFT_65', 'Slots')";
+      var link_2 = "javascript:openPopup('/dispatch/game/PGSOFT/Mobile/PGSOFT_74', 'Slots')";
+
       const htmlString2 = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item game_item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
@@ -80,7 +100,7 @@ window.addEventListener('DOMContentLoaded', function() {
                         <img alt="Mahjong Ways 2 x10000" height="100" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748774220.webp" width="100" style="background: transparent;">
                      </picture>
                      <span class="link-container">
-                     <a href="/mobile/login" class="play-now" data-game="Mahjong Ways 2 x10000">
+                     <a href="/mobile/login" class="link_edit1 play-now" data-game="Mahjong Ways 2 x10000">
                      MAIN
                      </a>
                      </span>
@@ -96,7 +116,7 @@ window.addEventListener('DOMContentLoaded', function() {
                         <img alt="Mahjong Ways 2 x5000" height="100" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748774220_1.webp" width="100" style="background: transparent;">
                      </picture>
                      <span class="link-container">
-                     <a href="/mobile/login" class="play-now" data-game="Mahjong Ways 2 x5000">
+                     <a href="/mobile/login" class="link_edit1 play-now" data-game="Mahjong Ways 2 x5000">
                      MAIN
                      </a>
                      </span>
@@ -114,7 +134,7 @@ window.addEventListener('DOMContentLoaded', function() {
                         <img alt="Mahjong Wins 3 Black Scatter" height="100" loading="lazy" src="https://imggalery.com/uploads/user_61/album_87/1748777520.gif" width="100" style="background: transparent;">
                      </picture>
                      <span class="link-container">
-                     <a href="/mobile/login" class="play-now" data-game="Mahjong Wins 3 Black Scatter">
+                     <a href="/mobile/login" class="link_edit2 play-now" data-game="Mahjong Wins 3 Black Scatter">
                      MAIN
                      </a>
                      </span>
@@ -130,7 +150,7 @@ window.addEventListener('DOMContentLoaded', function() {
                         <img alt="Mahjong Wins 3 Black Scatter" height="100" loading="lazy" src="https://www.kliker.store/img/gifmee.gif" width="100" style="background: transparent;">
                      </picture>
                      <span class="link-container">
-                     <a href="/mobile/login" class="play-now" data-game="Mahjong Wins 3 Black Scatter">
+                     <a href="/mobile/login" class="link_edit2 play-now" data-game="Mahjong Wins 3 Black Scatter">
                      MAIN
                      </a>
                      </span>
@@ -148,4 +168,16 @@ window.addEventListener('DOMContentLoaded', function() {
      const container2 = document.getElementsByClassName('game_list game-list')[0];
      if(container2 != undefined) container2.insertBefore(newGameItem12, container2.firstChild);
      if(container2 != undefined) container2.insertBefore(newGameItem22, container2.firstChild);
+
+     if (is_login != undefined) {
+         const linksedit1 = document.querySelectorAll('.link_edit1');
+         linksedit1.forEach(function (link) {
+            link.href = link_1;
+         });
+
+         const linksedit2 = document.querySelectorAll('.link_edit2');
+         linksedit2.forEach(function (link) {
+            link.href = link_2;
+         });
+     }
    });
