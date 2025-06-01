@@ -70,7 +70,7 @@
 
 
 //window.addEventListener('DOMContentLoaded', function() {
-      const htmlString = `
+      const htmlString2 = `
          <div class="games-group" bis_skin_checked="1">
             <div class="game-item game_item" data-game="Mahjong Ways 2 x10000" bis_skin_checked="1">
                <label class="inner-game-item">
@@ -141,11 +141,11 @@
          </div>
      `;
 
-     const tempDiv = document.createElement('div');
-     tempDiv.innerHTML = htmlString.trim();
-     const newGameItem1 = tempDiv.children[1];
-     const newGameItem2 = tempDiv.children[0];
-     const container = document.getElementsByClassName('game_list game-list')[0];
-     if(container != undefined) container.insertBefore(newGameItem1, container.firstChild);
-     if(container != undefined) container.insertBefore(newGameItem2, container.firstChild);
+     const tempDiv2 = document.createElement('div');
+     tempDiv2.innerHTML = htmlString2.trim();
+     const newGameItem12 = tempDiv2.children[1];
+     const newGameItem22 = tempDiv2.children[0];
+     const container2 = document.getElementsByClassName('game_list game-list')[0];
+     if(container2 != undefined) container2.insertBefore(newGameItem12, container2.firstChild);
+     if(container2 != undefined) container2.insertBefore(newGameItem22, container2.firstChild);
    //});
