@@ -72,6 +72,7 @@ function addElementAtIndex(containerId, newElement, index) {
 			divElement.style.marginTop = "30px";
 			divElement.style.marginBottom = "5px";
 			divElement.style.fontFamily = "Muli";
+			divElement.style.display = "none";
 
 			const latestResultsElement = document.getElementById("latest-results");
 			if (latestResultsElement) {
@@ -253,6 +254,7 @@ function addElementAtIndex(containerId, newElement, index) {
 			divElement.style.marginTop = "5px";
 			divElement.style.marginBottom = "5px";
 			divElement.style.fontFamily = "Muli";
+			divElement.style.display = "none";
 
 			
 
