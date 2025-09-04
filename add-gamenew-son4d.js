@@ -88,7 +88,7 @@ window.addEventListener('DOMContentLoaded', function() {
 		    </div>
 		    <div class="game-card">
 		      <a href="javascript:void(0)">
-		          <img src="https://www.kliker.store/img/gifmee.gif" alt="Mahjong Wins 3 Black Scatter">
+		          <img src="https://imggalery.com/uploads/user_61/album_87/1748777520.gif" alt="Mahjong Wins 3 Black Scatter">
 		          <div class="game-title">Mahjong Wins 3 Black Scatter</div>
 		          <div class="game-provider" style="color: orange;">Pragmatic Play</div>
 		      </a>
