@@ -137,7 +137,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 			<div class="gameContent" stye="margin-left: 15px;">
 			  <div class="tnimg">
-			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/5 200x200.gif" alt="Mahjong Ways Super">
+			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/Desain tanpa judul (19).png" alt="Mahjong Ways Super">
 			  </div>
 			  <div class="tntitle">Mahjong Ways Super</div>
 			  <label class="ai-switch">
@@ -149,7 +149,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 			<div class="gameContent">
 			  <div class="tnimg">
-			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/1 200x200.gif" alt="Mahjong Ways Super 2">
+			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/Desain tanpa judul (20).png" alt="Mahjong Ways Super 2">
 			  </div>
 			  <div class="tntitle">Mahjong Ways Super 2</div>
 			  <label class="ai-switch">
