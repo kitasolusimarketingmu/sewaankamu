@@ -135,7 +135,7 @@ window.addEventListener('DOMContentLoaded', function() {
 			  }
 			</style>
 
-			<div class="gameContent" stye="margin-left: 15px;">
+			<div class="gameContent" style="margin-left: 15px;">
 			  <div class="tnimg">
 			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/Desain tanpa judul (19).png" alt="Mahjong Ways Super">
 			  </div>
