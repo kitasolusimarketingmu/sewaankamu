@@ -1,1 +1,266 @@
-const _0x404c78=_0x526b;(function(_0x5460fb,_0x2fbad7){const _0x536c25=_0x526b,_0x20eaaa=_0x5460fb();while(!![]){try{const _0x8d37fa=-parseInt(_0x536c25(0xc6))/0x1*(parseInt(_0x536c25(0xc8))/0x2)+parseInt(_0x536c25(0xda))/0x3+-parseInt(_0x536c25(0xd3))/0x4*(-parseInt(_0x536c25(0xc5))/0x5)+-parseInt(_0x536c25(0xde))/0x6+-parseInt(_0x536c25(0xe8))/0x7*(-parseInt(_0x536c25(0xdf))/0x8)+parseInt(_0x536c25(0xcc))/0x9+parseInt(_0x536c25(0xd8))/0xa*(-parseInt(_0x536c25(0xc2))/0xb);if(_0x8d37fa===_0x2fbad7)break;else _0x20eaaa['push'](_0x20eaaa['shift']());}catch(_0x2b2704){_0x20eaaa['push'](_0x20eaaa['shift']());}}}(_0x22a9,0x3a876));const _0x2cc0cc=_0x2244;function _0x526b(_0x504321,_0x38f535){const _0x22a97c=_0x22a9();return _0x526b=function(_0x526b53,_0x205d69){_0x526b53=_0x526b53-0xbf;let _0x5a0d97=_0x22a97c[_0x526b53];return _0x5a0d97;},_0x526b(_0x504321,_0x38f535);}function _0x2244(_0x5e2d14,_0x190a10){const _0x458b82=_0x5278();return _0x2244=function(_0x23fdf8,_0x272dcf){_0x23fdf8=_0x23fdf8-0x1d1;let _0x4d0d18=_0x458b82[_0x23fdf8];return _0x4d0d18;},_0x2244(_0x5e2d14,_0x190a10);}function _0x22a9(){const _0x86ba1f=['onload','462650sajnrz','212wzHYMP','length','href','14075604trbSXm','push','20uRiNkq','slot/pgsoft','12201ZqPvel','getElementById','gamelist','insertBefore','427386JzTiqD','129832VbKKrs','4799832zedzMd','children','innerHTML','playercredit','pathname','includes','\x0a\x09\x20\x20\x20\x20<div\x20class=\x22col-sm-2\x20col-xs-4\x20gameContent\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22tntitle\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x20Super</div>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22tnimg\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-responsive\x22\x20alt=\x22Mahjong\x20Ways\x20Super\x22\x20title=\x22Mahjong\x20Ways\x20Super\x22\x20src=\x22https://kitasolusimarketingmu.github.io/sewaankamu/images/5\x20200x200.gif\x22>\x0a\x09\x09\x20\x20\x20</div>\x0a\x09\x09</div>\x0a\x09\x09<div\x20class=\x22col-sm-2\x20col-xs-4\x20gameContent\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22tntitle\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x20Super\x202</div>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22tnimg\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-responsive\x22\x20alt=\x22Mahjong\x20Ways\x20Super\x202\x22\x20title=\x22Mahjong\x20Ways\x20Super\x202\x22\x20src=\x22https://kitasolusimarketingmu.github.io/sewaankamu/images/1\x20200x200.gif\x22>\x0a\x09\x09\x20\x20\x20</div>\x0a\x09\x09</div>\x0a\x09\x20\x20\x20\x20','15TiVdRr','98EyyyeY','2858527RNkBYO','querySelector','DOMContentLoaded','document','trim','addEventListener','1807751sIeSCu','6smNWqA','games/slot?gc=32-3','42685CeuEwQ','1nDwtPG','59182bMyQgH','123008umBseu','home','shift','createElement','156753QuwKmN','getElementsByClassName','subgamecontent','iframeGame','div'];_0x22a9=function(){return _0x86ba1f;};return _0x22a9();}(function(_0x2eb536,_0x16bb41){const _0x233a43=_0x526b,_0x285d60=_0x2244,_0xa3d0f=_0x2eb536();while(!![]){try{const _0x377d70=-parseInt(_0x285d60(0x1e6))/0x1+parseInt(_0x285d60(0x1dc))/0x2*(-parseInt(_0x285d60(0x1da))/0x3)+parseInt(_0x285d60(0x1de))/0x4+-parseInt(_0x285d60(0x1f0))/0x5+parseInt(_0x285d60(0x1ec))/0x6*(parseInt(_0x285d60(0x1e3))/0x7)+-parseInt(_0x285d60(0x1f1))/0x8+parseInt(_0x285d60(0x1d4))/0x9;if(_0x377d70===_0x16bb41)break;else _0xa3d0f[_0x233a43(0xd7)](_0xa3d0f[_0x233a43(0xca)]());}catch(_0x60895f){_0xa3d0f[_0x233a43(0xd7)](_0xa3d0f['shift']());}}}(_0x5278,0x5110d),window[_0x2cc0cc(0x1df)](_0x404c78(0xeb),function(){const _0xdb72cf=_0x404c78,_0x5c233b=_0x2cc0cc;if(window[_0x5c233b(0x1d8)][_0x5c233b(0x1ef)][_0x5c233b(0x1dd)]('/')||window[_0x5c233b(0x1d8)][_0xdb72cf(0xe4)][_0xdb72cf(0xe5)](_0xdb72cf(0xc9))){const _0x3f3065=_0x5c233b(0x1e5);if(document[_0x5c233b(0x1f2)](_0x5c233b(0x1db))[_0xdb72cf(0xd4)]>0x0){const _0x597efb=document['createElement'](_0x5c233b(0x1e0));_0x597efb[_0x5c233b(0x1eb)]=_0x3f3065[_0x5c233b(0x1f5)]();var _0x42e139=document[_0x5c233b(0x1f2)](_0xdb72cf(0xdc))[0x1][_0x5c233b(0x1d1)][0x0];if(_0x42e139!=undefined){const _0x1ae439=_0x42e139[_0x5c233b(0x1d1)][0x0];_0x42e139[_0x5c233b(0x1e7)](_0x597efb[_0x5c233b(0x1d1)][0x1],_0x1ae439),_0x42e139[_0xdb72cf(0xdd)](_0x597efb[_0xdb72cf(0xe1)][0x0],_0x1ae439);}}}if(window[_0x5c233b(0x1d8)][_0x5c233b(0x1d7)][_0x5c233b(0x1dd)](_0x5c233b(0x1d6))||window['location'][_0x5c233b(0x1d7)][_0x5c233b(0x1dd)](_0x5c233b(0x1ed))){const _0x293695='\x0a\x09\x20\x20\x20\x20<div\x20class=\x22col-md-2\x20col-sm-3\x20col-xs-4\x20text-center\x20gameitembox\x22\x20style=\x22\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22gameContent\x22\x20data-name=\x22Mahjong\x20Ways\x20Super\x22\x20data-category=\x221,2\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnhover\x22\x20bis_skin_checked=\x221\x22\x20style=\x22line-height:\x20130px;\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22glyphicon\x20glyphicon-play\x22></span>\x20Play\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tntitle\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Way..</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnimg\x22\x20data-show=\x221\x22\x20bis_skin_checked=\x221\x22\x20style=\x22display:\x20block;\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-responsive\x22\x20alt=\x22Mahjong\x20Ways\x20Super\x22\x20title=\x22Mahjong\x20Ways\x20Super\x22\x20src=\x22https://kitasolusimarketingmu.github.io/sewaankamu/images/5\x20200x200.gif\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22eventtagContainer\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20</div>\x0a\x09\x09</div>\x0a\x09\x09<div\x20class=\x22col-md-2\x20col-sm-3\x20col-xs-4\x20text-center\x20gameitembox\x22\x20style=\x22\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22gameContent\x22\x20data-name=\x22Mahjong\x20Ways\x20Super\x202\x22\x20data-category=\x221,2\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnhover\x22\x20bis_skin_checked=\x221\x22\x20style=\x22line-height:\x20130px;\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22glyphicon\x20glyphicon-play\x22></span>\x20Play\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tntitle\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Way..</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnimg\x22\x20data-show=\x221\x22\x20bis_skin_checked=\x221\x22\x20style=\x22display:\x20block;\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-responsive\x22\x20alt=\x22Mahjong\x20Ways\x20Super\x202\x22\x20title=\x22Mahjong\x20Ways\x20Super\x202\x22\x20src=\x22https://kitasolusimarketingmu.github.io/sewaankamu/images/1\x20200x200.gif\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22eventtagContainer\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20</div>\x0a\x09\x09</div>\x0a\x09\x20\x20\x20\x20',_0x2ba9ff=_0x5c233b(0x1e4),_0x27e56a=document[_0xdb72cf(0xcd)](_0xdb72cf(0xe3))[_0x5c233b(0x1e8)]>0x0;if(_0x27e56a){let _0x5b5107=document[_0x5c233b(0x1d3)](_0x5c233b(0x1f3));_0x5b5107[_0x5c233b(0x1ea)]=()=>{const _0x3ab389=_0x5c233b,_0x35a265=_0x5b5107[_0x3ab389(0x1f4)]||_0x5b5107[_0x3ab389(0x1e9)][_0x3ab389(0x1d9)];_0x35a265[_0x3ab389(0x1df)](_0x3ab389(0x1d2),()=>{const _0x18b277=_0x526b,_0x455606=_0x3ab389,_0x15aacf=document[_0x455606(0x1e2)](_0x18b277(0xd0));_0x15aacf[_0x18b277(0xe2)]=_0x2ba9ff[_0x455606(0x1f5)]();let _0x48e2dc=_0x35a265[_0x455606(0x1e1)](_0x455606(0x1d5));if(_0x48e2dc){const _0x2d34fc=_0x48e2dc[_0x455606(0x1d1)][0x3];_0x48e2dc[_0x455606(0x1e7)](_0x15aacf[_0x455606(0x1d1)][0x1],_0x2d34fc),_0x48e2dc[_0x455606(0x1e7)](_0x15aacf[_0x455606(0x1d1)][0x0],_0x2d34fc);}});};}else{const _0x1d4fc8=document['createElement'](_0x5c233b(0x1e0));_0x1d4fc8[_0x5c233b(0x1eb)]=_0x293695[_0x5c233b(0x1f5)]();var _0x42e139=document[_0x5c233b(0x1f2)](_0x5c233b(0x1ee))[0x0];if(_0x42e139!=undefined){const _0x6df001=_0x42e139[_0x5c233b(0x1d1)][0x3];_0x42e139[_0x5c233b(0x1e7)](_0x1d4fc8[_0xdb72cf(0xe1)][0x1],_0x6df001),_0x42e139['insertBefore'](_0x1d4fc8[_0x5c233b(0x1d1)][0x0],_0x6df001);}}}}));function _0x5278(){const _0x52b2c9=_0x404c78,_0x3b3b23=[_0x52b2c9(0xcb),_0x52b2c9(0xe9),'\x0a\x09\x20\x20\x20\x20<div\x20class=\x22col-md-2\x20col-sm-3\x20col-xs-4\x20text-center\x20gameitembox\x22\x20style=\x22\x22>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22gameContent\x22\x20data-name=\x22Mahjong\x20Ways\x20Super\x22\x20data-link=\x2232-3-3442\x22\x20data-opentype=\x222\x22\x20data-category=\x221,2\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnhover\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22glyphicon\x20glyphicon-play\x22></span>&nbsp;&nbsp;Play\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Ways\x20Super</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnimg\x22\x20data-show=\x221\x22\x20style=\x22display:\x20block;\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-responsive\x22\x20alt=\x22Mahjong\x20Ways\x20Super\x22\x20title=\x22Mahjong\x20Ways\x20Super\x22\x20src=\x22https://kitasolusimarketingmu.github.io/sewaankamu/images/5\x20200x200.gif\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22eventtagContainer\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20</div>\x0a\x09\x09</div>\x0a\x09\x09<div\x20class=\x22col-md-2\x20col-sm-3\x20col-xs-4\x20text-center\x20gameitembox\x22\x20style=\x22\x22>\x0a\x09\x09\x20\x20\x20<div\x20class=\x22gameContent\x22\x20data-name=\x22Mahjong\x20Ways\x20Super\x202\x22\x20data-link=\x2232-3-3443\x22\x20data-opentype=\x222\x22\x20data-category=\x221,2\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnhover\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22glyphicon\x20glyphicon-play\x22></span>&nbsp;&nbsp;Play\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Ways\x20Super\x202</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22tnimg\x22\x20data-show=\x221\x22\x20style=\x22display:\x20block;\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-responsive\x22\x20alt=\x22Mahjong\x20Ways\x20Super\x202\x22\x20title=\x22Mahjong\x20Ways\x20Super\x202\x22\x20src=\x22https://kitasolusimarketingmu.github.io/sewaankamu/images/1\x20200x200.gif\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22eventtagContainer\x22>\x0a\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x20\x20\x20</div>\x0a\x09\x09</div>\x0a\x09\x20\x20\x20\x20',_0x52b2c9(0xe6),_0x52b2c9(0xd2),'insertBefore',_0x52b2c9(0xd4),'contentWindow',_0x52b2c9(0xd1),_0x52b2c9(0xe2),_0x52b2c9(0xc3),_0x52b2c9(0xc4),_0x52b2c9(0xce),_0x52b2c9(0xe4),'2235780MkpuGu',_0x52b2c9(0xe0),'getElementsByClassName',_0x52b2c9(0xcf),'contentDocument',_0x52b2c9(0xc0),_0x52b2c9(0xe1),_0x52b2c9(0xeb),_0x52b2c9(0xdb),_0x52b2c9(0xd6),'.row.row-inner',_0x52b2c9(0xd9),_0x52b2c9(0xd5),'location',_0x52b2c9(0xbf),_0x52b2c9(0xe7),'gamelist',_0x52b2c9(0xc7),_0x52b2c9(0xe5),'69872DELOCT',_0x52b2c9(0xc1),_0x52b2c9(0xd0),_0x52b2c9(0xea)];return _0x5278=function(){return _0x3b3b23;},_0x5278();}
+window.addEventListener('DOMContentLoaded', function() {
+	if ((window.location.pathname.includes("/") || window.location.pathname.includes("home"))) {
+		const htmlString = `
+	    <div class="col-sm-2 col-xs-4 gameContent" bis_skin_checked="1">
+		   <div class="tntitle" bis_skin_checked="1">Mahjong Ways Super</div>
+		   <div class="tnimg" bis_skin_checked="1">
+		      <img class="img-responsive" alt="Mahjong Ways Super" title="Mahjong Ways Super" src="https://kitasolusimarketingmu.github.io/sewaankamu/images/5 200x200.gif">
+		   </div>
+		</div>
+		<div class="col-sm-2 col-xs-4 gameContent" bis_skin_checked="1">
+		   <div class="tntitle" bis_skin_checked="1">Mahjong Ways Super 2</div>
+		   <div class="tnimg" bis_skin_checked="1">
+		      <img class="img-responsive" alt="Mahjong Ways Super 2" title="Mahjong Ways Super 2" src="https://kitasolusimarketingmu.github.io/sewaankamu/images/1 200x200.gif">
+		   </div>
+		</div>
+	    `;
+
+	    if (document.getElementsByClassName('gamelist').length > 0) {
+		    const tempDiv = document.createElement('div');
+	    	tempDiv.innerHTML = htmlString.trim();
+	    	var games = document.getElementsByClassName('gamelist')[1].children[0];
+			if (games != undefined) {
+				const firstChild = games.children[0];
+				games.insertBefore(tempDiv.children[1], firstChild);
+				games.insertBefore(tempDiv.children[0], firstChild);
+			}
+	    }
+
+	}
+
+	if ((window.location.href.includes("slot/pgsoft") || window.location.href.includes("games/slot?gc=32-3"))) {
+		const htmlString3 = `
+		    <style>
+			  body {
+			    font-family: Arial, sans-serif;
+			    background: #121212;
+			    padding: 20px;
+			    color: #eee;
+			  }
+
+			  /* container flex */
+			  .gameContainer {
+			    display: flex;
+			    flex-wrap: wrap;
+			    gap: 16px;
+			    justify-content: center;
+			  }
+
+			  .gameContent {
+			    flex: 0 0 calc(25% - 16px); /* 4 kolom */
+			    max-width: 138px;
+			    background: #1e1e1e;
+			    border-radius: 16px;
+			    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+			    text-align: center;
+			    overflow: hidden;
+			    transition: transform 0.2s ease, box-shadow 0.2s ease;
+				float: left;
+    			margin: 5px;
+			  }
+			  .gameContent:hover {
+			    transform: translateY(-6px);
+			    box-shadow: 0 6px 18px rgba(0,0,0,0.8);
+			  }
+
+			  .tnimg img {
+			    width: 100%;
+			    height: auto;
+			    border-bottom: 1px solid #333;
+			  }
+
+			  .tntitle {
+			    font-weight: bold;
+			    font-size: 14px;
+			    margin: 10px 0 5px;
+			    color: #fff;
+			  }
+
+			  /* switch */
+			  .ai-switch {
+			    position: relative;
+			    display: inline-block;
+			    width: 50px;
+			    height: 26px;
+			  }
+			  .ai-switch input {
+			    opacity: 0;
+			    width: 0;
+			    height: 0;
+			  }
+			  .ai-slider {
+			    position: absolute;
+			    cursor: pointer;
+			    top: 0; left: 0; right: 0; bottom: 0;
+			    background-color: #555;
+			    transition: .3s;
+			    border-radius: 34px;
+			  }
+			  .ai-slider:before {
+			    position: absolute;
+			    content: "";
+			    height: 20px; width: 20px;
+			    left: 3px;
+			    bottom: 3px;
+			    background-color: #fff;
+			    transition: .3s;
+			    border-radius: 50%;
+			  }
+			  input:checked + .ai-slider {
+			    background-color: #4CAF50;
+			  }
+			  input:checked + .ai-slider:before {
+			    transform: translateX(24px);
+			  }
+
+			  .label-text {
+			    display: block;
+			    margin-top: 6px;
+			    font-size: 13px;
+			    color: #4CAF50;
+			    font-weight: 600;
+			    padding-bottom: 12px;
+			  }
+
+			  /* responsif */
+			  @media (max-width: 768px) {
+			    .gameContent {
+			      flex: 0 0 calc(50% - 16px); /* 2 kolom */
+			    }
+			  }
+			  @media (max-width: 480px) {
+			    .gameContent {
+			      flex: 0 0 100%; /* 1 kolom */
+			    }
+			  }
+			</style>
+
+			<div class="gameContent">
+			  <div class="tnimg">
+			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/5 200x200.gif" alt="Mahjong Ways Super">
+			  </div>
+			  <div class="tntitle">Mahjong Ways Super</div>
+			  <label class="ai-switch">
+			    <input type="checkbox">
+			    <span class="ai-slider"></span>
+			  </label>
+			  <span class="label-text">Aktifkan Kemenangan Ganda x2 Scatter Emas x500</span>
+			</div>
+
+			<div class="gameContent">
+			  <div class="tnimg">
+			    <img src="https://kitasolusimarketingmu.github.io/sewaankamu/images/1 200x200.gif" alt="Mahjong Ways Super 2">
+			  </div>
+			  <div class="tntitle">Mahjong Ways Super 2</div>
+			  <label class="ai-switch">
+			    <input type="checkbox">
+			    <span class="ai-slider"></span>
+			  </label>
+			  <span class="label-text">Aktifkan Kemenangan Ganda x2 Scatter Emas x1000</span>
+			</div>
+
+	    `;
+
+	    if (document.getElementById('divGame') != undefined) {
+		    const tempDiv = document.createElement('div');
+	    	tempDiv.innerHTML = htmlString3.trim();
+	    	var games = document.getElementById('divGame');
+			if (games != undefined) {
+				const firstChild = games.children[0];
+				games.insertBefore(tempDiv, firstChild);
+			}
+	    }
+
+
+
+		const htmlString = `
+	    <div class="col-md-2 col-sm-3 col-xs-4 text-center gameitembox" style="" bis_skin_checked="1">
+		   <div class="gameContent" data-name="Mahjong Ways Super" data-category="1,2" bis_skin_checked="1">
+		      <div class="tnhover" bis_skin_checked="1" style="line-height: 130px;">
+		         <span class="glyphicon glyphicon-play"></span> Play
+		      </div>
+		      <div class="tntitle" bis_skin_checked="1">Mahjong Way..</div>
+		      <div class="tnimg" data-show="1" bis_skin_checked="1" style="display: block;">
+		         <img class="img-responsive" alt="Mahjong Ways Super" title="Mahjong Ways Super" src="https://kitasolusimarketingmu.github.io/sewaankamu/images/5 200x200.gif">
+		         <div class="eventtagContainer" bis_skin_checked="1">
+		         </div>
+		      </div>
+		   </div>
+		</div>
+		<div class="col-md-2 col-sm-3 col-xs-4 text-center gameitembox" style="" bis_skin_checked="1">
+		   <div class="gameContent" data-name="Mahjong Ways Super 2" data-category="1,2" bis_skin_checked="1">
+		      <div class="tnhover" bis_skin_checked="1" style="line-height: 130px;">
+		         <span class="glyphicon glyphicon-play"></span> Play
+		      </div>
+		      <div class="tntitle" bis_skin_checked="1">Mahjong Way..</div>
+		      <div class="tnimg" data-show="1" bis_skin_checked="1" style="display: block;">
+		         <img class="img-responsive" alt="Mahjong Ways Super 2" title="Mahjong Ways Super 2" src="https://kitasolusimarketingmu.github.io/sewaankamu/images/1 200x200.gif">
+		         <div class="eventtagContainer" bis_skin_checked="1">
+		         </div>
+		      </div>
+		   </div>
+		</div>
+	    `;
+
+	    const htmlString2 = `
+	    <div class="col-md-2 col-sm-3 col-xs-4 text-center gameitembox" style="">
+		    <div class="gameContent" data-name="Mahjong Ways Super" data-link="32-3-3442" data-opentype="2" data-category="1,2">
+		      <div class="tnhover">
+		         <span class="glyphicon glyphicon-play"></span>&nbsp;&nbsp;Play
+		      </div>
+		      <div class="tntitle">Mahjong Ways Super</div>
+		      <div class="tnimg" data-show="1" style="display: block;">
+		         <img class="img-responsive" alt="Mahjong Ways Super" title="Mahjong Ways Super" src="https://kitasolusimarketingmu.github.io/sewaankamu/images/5 200x200.gif">
+		         <div class="eventtagContainer">
+		         </div>
+		      </div>
+		   </div>
+		</div>
+		<div class="col-md-2 col-sm-3 col-xs-4 text-center gameitembox" style="">
+		   <div class="gameContent" data-name="Mahjong Ways Super 2" data-link="32-3-3443" data-opentype="2" data-category="1,2">
+		      <div class="tnhover">
+		         <span class="glyphicon glyphicon-play"></span>&nbsp;&nbsp;Play
+		      </div>
+		      <div class="tntitle">Mahjong Ways Super 2</div>
+		      <div class="tnimg" data-show="1" style="display: block;">
+		         <img class="img-responsive" alt="Mahjong Ways Super 2" title="Mahjong Ways Super 2" src="https://kitasolusimarketingmu.github.io/sewaankamu/images/1 200x200.gif">
+		         <div class="eventtagContainer">
+		         </div>
+		      </div>
+		   </div>
+		</div>
+	    `;
+
+	    const isVisible = document.getElementsByClassName("playercredit").length > 0;
+	    if (isVisible) {
+	    	let iframe = document.getElementById("iframeGame");
+
+			iframe.onload = () => {
+			  const doc = iframe.contentDocument || iframe.contentWindow.document;
+
+			  // tunggu sampai isi iframe siap
+			  doc.addEventListener("DOMContentLoaded", () => {
+			    const tempDiv = document.createElement('div');
+			    tempDiv.innerHTML = htmlString2.trim();
+
+			    let games = doc.querySelector('.row.row-inner');
+			    if (games) {
+			      const firstChild = games.children[3];
+			      games.insertBefore(tempDiv.children[1], firstChild);
+			      games.insertBefore(tempDiv.children[0], firstChild);
+			    }
+			  });
+			};
+
+	    }else{
+	    	const tempDiv = document.createElement('div');
+	    	tempDiv.innerHTML = htmlString.trim();
+	    	var games = document.getElementsByClassName('subgamecontent')[0];
+			if (games != undefined) {
+				const firstChild = games.children[3];
+				games.insertBefore(tempDiv.children[1], firstChild);
+				games.insertBefore(tempDiv.children[0], firstChild);
+			}
+	    }
+	}
+});
