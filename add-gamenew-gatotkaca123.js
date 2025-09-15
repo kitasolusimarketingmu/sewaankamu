@@ -204,7 +204,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 	    const htmlString2 = `
 	    <div class="col-md-2 col-sm-3 col-xs-4 text-center gameitembox" style="">
-		    <div class="gameContent newGameContent" onclic data-name="Mahjong Ways Super" data-link="32-3-3442" data-opentype="2" data-category="1,2">
+		    <div class="gameContent" onclick='window.open(window.location.href.replace("gc", "gg")+"-3442", "_blank", "width=414,height=736,top=100,left=100,resizable=yes,scrollbars=yes,status=yes");' data-name="Mahjong Ways Super" data-link="32-3-3442" data-opentype="2" data-category="1,2">
 		      <div class="tnhover">
 		         <span class="glyphicon glyphicon-play"></span>&nbsp;&nbsp;Play
 		      </div>
@@ -217,7 +217,7 @@ window.addEventListener('DOMContentLoaded', function() {
 		   </div>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-4 text-center gameitembox" style="">
-		   <div class="gameContent newGameContent" data-name="Mahjong Ways Super 2" data-link="32-3-3443" data-opentype="2" data-category="1,2">
+		   <div class="gameContent" onclick='window.open(window.location.href.replace("gc", "gg")+"-3443", "_blank", "width=414,height=736,top=100,left=100,resizable=yes,scrollbars=yes,status=yes");' data-name="Mahjong Ways Super 2" data-link="32-3-3443" data-opentype="2" data-category="1,2">
 		      <div class="tnhover">
 		         <span class="glyphicon glyphicon-play"></span>&nbsp;&nbsp;Play
 		      </div>
@@ -246,25 +246,7 @@ window.addEventListener('DOMContentLoaded', function() {
 			      games.insertBefore(tempDiv.children[1], firstChild);
 			      games.insertBefore(tempDiv.children[0], firstChild);
 			    }
-
-			    document.addEventListener("click", function(e) {
-				  let target = e.target.closest(".newGameContent"); 
-				  if (target) {
-				    // ambil data-link
-				    let gg = target.getAttribute("data-link");
-				    if (gg) {
-				      let url = "https://gatotkaca123top.com/mobile/account/gamepage?gg=" + encodeURIComponent(gg);
-
-				      // buka window baru dengan ukuran mobile
-				      window.open(
-				        url,
-				        "_blank",
-				        "width=414,height=736,top=100,left=100,resizable=yes,scrollbars=yes,status=yes"
-				      );
-				    }
-				  }
-				});
-	    	}, 10000);
+	    	}, 7000);
 	    }else{
 	    	const tempDiv = document.createElement('div');
 	    	tempDiv.innerHTML = htmlString.trim();
