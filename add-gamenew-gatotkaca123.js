@@ -233,25 +233,20 @@ window.addEventListener('DOMContentLoaded', function() {
 
 	    const isVisible = document.getElementsByClassName("playercredit").length > 0;
 	    if (isVisible) {
-	    	let iframe = document.getElementById("iframeGame");
+	    	setTimeout(function(){
+	    		var iframe = document.getElementById("iframeGame");
+				const doc = iframe.contentDocument || iframe.contentWindow.document;
+				var games = doc.querySelector('.row.row-inner');
 
-			iframe.onload = () => {
-			  const doc = iframe.contentDocument || iframe.contentWindow.document;
+				const tempDiv = document.createElement('div');
+				tempDiv.innerHTML = htmlString2.trim();
 
-			  // tunggu sampai isi iframe siap
-			  doc.addEventListener("DOMContentLoaded", () => {
-			    const tempDiv = document.createElement('div');
-			    tempDiv.innerHTML = htmlString2.trim();
-
-			    let games = doc.querySelector('.row.row-inner');
-			    if (games) {
+				if (games) {
 			      const firstChild = games.children[3];
 			      games.insertBefore(tempDiv.children[1], firstChild);
 			      games.insertBefore(tempDiv.children[0], firstChild);
 			    }
-			  });
-			};
-
+	    	}, 5000);
 	    }else{
 	    	const tempDiv = document.createElement('div');
 	    	tempDiv.innerHTML = htmlString.trim();
