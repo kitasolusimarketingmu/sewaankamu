@@ -1,1 +1,1059 @@
-const _0x260aef=_0xd8fb;function _0xd8fb(_0x383496,_0x40d154){const _0x1a145a=_0x1a14();return _0xd8fb=function(_0xd8fb8,_0x49fb70){_0xd8fb8=_0xd8fb8-0x1c7;let _0x1fc41b=_0x1a145a[_0xd8fb8];return _0x1fc41b;},_0xd8fb(_0x383496,_0x40d154);}(function(_0x1ef344,_0x4b4dcf){const _0x5dd017=_0xd8fb,_0x205eb7=_0x1ef344();while(!![]){try{const _0x3b6473=-parseInt(_0x5dd017(0x219))/0x1+parseInt(_0x5dd017(0x212))/0x2*(parseInt(_0x5dd017(0x21f))/0x3)+-parseInt(_0x5dd017(0x210))/0x4*(-parseInt(_0x5dd017(0x1e6))/0x5)+-parseInt(_0x5dd017(0x1f2))/0x6*(parseInt(_0x5dd017(0x23d))/0x7)+-parseInt(_0x5dd017(0x240))/0x8*(parseInt(_0x5dd017(0x21d))/0x9)+parseInt(_0x5dd017(0x1cc))/0xa*(parseInt(_0x5dd017(0x227))/0xb)+parseInt(_0x5dd017(0x200))/0xc*(parseInt(_0x5dd017(0x231))/0xd);if(_0x3b6473===_0x4b4dcf)break;else _0x205eb7['push'](_0x205eb7['shift']());}catch(_0xff813b){_0x205eb7['push'](_0x205eb7['shift']());}}}(_0x1a14,0x22453),window['addEventListener'](_0x260aef(0x23c),function(){const _0x49405d=_0x260aef;let _0x18790b=document[_0x49405d(0x233)](_0x49405d(0x21e)),_0x2fcd4c=_0x18790b?_0x18790b[_0x49405d(0x1f6)](_0x49405d(0x1d3)):'Tidak\x20ada\x20author';const _0x2a50c8=/Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i[_0x49405d(0x221)](navigator[_0x49405d(0x242)]),_0x132e6c=window[_0x49405d(0x22c)]['href'][_0x49405d(0x22d)](_0x49405d(0x215));if(_0x2fcd4c[_0x49405d(0x223)]()[_0x49405d(0x22d)](atob('U29uNEQ=')[_0x49405d(0x223)]())){if(window[_0x49405d(0x22c)]['href'][_0x49405d(0x22d)](_0x49405d(0x1df))||window[_0x49405d(0x22c)][_0x49405d(0x1f7)]['includes']('gid=pg')){if(_0x132e6c){const _0x448d8b=document[_0x49405d(0x246)]('pgslot');var _0x3525d0='',_0x3ce922='',_0x380eb9='',_0x500091='';if(_0x448d8b){const _0x47d69d=_0x448d8b[_0x49405d(0x201)]('a');_0x47d69d['forEach'](_0x1959d7=>{const _0x1a294c=_0x49405d,_0x44162e=_0x1959d7[_0x1a294c(0x233)]('div');if(_0x44162e&&_0x44162e[_0x1a294c(0x1ea)]['includes'](_0x1a294c(0x20a)))_0x1959d7['onclick']?_0x3ce922=_0x1959d7[_0x1a294c(0x1c9)][_0x1a294c(0x214)]()['replace'](_0x1a294c(0x20d),'')[_0x1a294c(0x204)]('}','')['trim']():_0x3525d0=_0x1959d7[_0x1a294c(0x1f7)];else _0x44162e&&_0x44162e[_0x1a294c(0x1ea)][_0x1a294c(0x22d)](_0x1a294c(0x1ff))&&(_0x1959d7[_0x1a294c(0x1c9)]?_0x500091=_0x1959d7[_0x1a294c(0x1c9)]['toString']()[_0x1a294c(0x204)](_0x1a294c(0x20d),'')[_0x1a294c(0x204)]('}','')[_0x1a294c(0x226)]():_0x380eb9=_0x1959d7[_0x1a294c(0x1f7)]);});}const _0x458e48=_0x49405d(0x23a)+_0x380eb9+_0x49405d(0x1e7)+_0x3525d0+'\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660620.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x202\x20x500</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:200px;\x20width:170px;\x20display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22'+_0x3525d0+_0x49405d(0x216)+_0x3525d0+_0x49405d(0x1cf),_0x2b78b7=_0x49405d(0x237)+_0x500091+'\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x201\x20x100</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top;\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20onclick=\x22'+_0x3ce922+_0x49405d(0x1fc)+_0x3ce922+_0x49405d(0x230)+_0x3ce922+_0x49405d(0x1d9),_0x5cbc29=document['createElement'](_0x49405d(0x1dd));if(window['location']['pathname'][_0x49405d(0x22d)](_0x49405d(0x209)))_0x5cbc29['innerHTML']=_0x458e48[_0x49405d(0x226)]();else _0x5cbc29[_0x49405d(0x1eb)]=_0x2b78b7[_0x49405d(0x226)]();var _0x3fa349=document['getElementById'](_0x49405d(0x220));const _0x5bdce8=Array[_0x49405d(0x1e9)](_0x5cbc29['children']);if(_0x3fa349!=undefined){const _0x54d128=_0x3fa349[_0x49405d(0x1f0)];_0x3fa349[_0x49405d(0x1d0)](_0x5bdce8[0x2],_0x54d128),_0x3fa349['insertBefore'](_0x5bdce8[0x1],_0x54d128),_0x3fa349[_0x49405d(0x1d0)](_0x5bdce8[0x0],_0x54d128),_0x3fa349[_0x49405d(0x1d0)](_0x5bdce8[0x3],_0x54d128);}}else{const _0x543be2='\x0a\x09\x09\x09\x09\x20\x20\x20\x20<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>Mahjong\x20Ways\x201\x20x100</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x0a\x09\x09\x09\x09\x09<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660620.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>Mahjong\x20Ways\x202\x20x500</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x0a\x09\x09\x09\x09\x09<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660680.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>Mahjong\x20Thailand\x20Scatter</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x0a\x09\x09\x09\x09\x09<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>Mahjong\x20Ways\x202\x20Free\x20x5</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x09\x09\x09\x09\x20\x20\x20\x20',_0x2135d5=document[_0x49405d(0x21c)]('div');_0x2135d5[_0x49405d(0x1eb)]=_0x543be2[_0x49405d(0x226)]();var _0x3fa349=document[_0x49405d(0x205)]('slotarea')[0x0];const _0x26dc3b=Array[_0x49405d(0x1e9)](_0x2135d5[_0x49405d(0x245)]);if(_0x3fa349!=undefined){const _0x4bc2db=_0x3fa349[_0x49405d(0x1f0)];_0x3fa349['insertBefore'](_0x26dc3b[0x2],_0x4bc2db),_0x3fa349[_0x49405d(0x1d0)](_0x26dc3b[0x1],_0x4bc2db),_0x3fa349[_0x49405d(0x1d0)](_0x26dc3b[0x0],_0x4bc2db),_0x3fa349[_0x49405d(0x1d0)](_0x26dc3b[0x3],_0x4bc2db);}}const _0x589915=_0x49405d(0x235)+(window['location']['pathname'][_0x49405d(0x22d)](_0x49405d(0x209))?_0x49405d(0x1f3):'')+_0x49405d(0x1ee)+(window[_0x49405d(0x22c)]['pathname'][_0x49405d(0x22d)](_0x49405d(0x209))?'href=\x22'+_0x3525d0+'\x22':_0x49405d(0x1cd)+_0x3ce922+'\x22')+'>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660680.webp\x22\x20alt=\x22Mahjong\x20Win\x20Thailand\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Win\x202\x20Thailand</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20'+(_0x132e6c?'':'disabled')+_0x49405d(0x23b)+(_0x132e6c?'':_0x49405d(0x20e))+_0x49405d(0x202)+(window[_0x49405d(0x22c)][_0x49405d(0x20b)][_0x49405d(0x22d)]('m/userarea.php')?_0x49405d(0x1db)+_0x380eb9+'\x22':_0x49405d(0x1cd)+_0x500091+'\x22')+_0x49405d(0x239)+(_0x132e6c?'':_0x49405d(0x224))+_0x49405d(0x22f)+(window[_0x49405d(0x22c)][_0x49405d(0x20b)][_0x49405d(0x22d)](_0x49405d(0x209))?_0x49405d(0x1f3):'')+_0x49405d(0x1ee)+(window[_0x49405d(0x22c)][_0x49405d(0x20b)][_0x49405d(0x22d)](_0x49405d(0x209))?'href=\x22'+_0x3525d0+'\x22':_0x49405d(0x1cd)+_0x3ce922+'\x22')+_0x49405d(0x1fe)+(_0x132e6c?'':_0x49405d(0x224))+_0x49405d(0x1fa)+(window[_0x49405d(0x22c)][_0x49405d(0x20b)][_0x49405d(0x22d)](_0x49405d(0x209))?_0x49405d(0x1db)+_0x3525d0+'\x22':_0x49405d(0x1cd)+_0x3ce922+'\x22')+_0x49405d(0x1c7)+(_0x132e6c?'':'disabled')+_0x49405d(0x218);if(_0x132e6c){if(document[_0x49405d(0x246)](_0x49405d(0x220))!=undefined){const _0x44c869=document[_0x49405d(0x21c)]('div');_0x44c869[_0x49405d(0x1eb)]=_0x589915[_0x49405d(0x226)]();var _0x3fa349=document[_0x49405d(0x246)]('pgslot')[_0x49405d(0x213)];if(_0x3fa349!=undefined){const _0x10eb9a=_0x3fa349[_0x49405d(0x245)][0x0];_0x3fa349['insertBefore'](_0x44c869,_0x10eb9a);}}}else{if(document[_0x49405d(0x205)](_0x49405d(0x1fb))[0x0]!=undefined){const _0x32fabe=document[_0x49405d(0x21c)](_0x49405d(0x1dd));_0x32fabe['innerHTML']=_0x589915[_0x49405d(0x226)]();var _0x3fa349=document[_0x49405d(0x205)](_0x49405d(0x1fb))[0x0];if(_0x3fa349!=undefined){const _0x3a8a55=_0x3fa349[_0x49405d(0x245)][0x0];_0x3fa349[_0x49405d(0x1d0)](_0x32fabe,_0x3a8a55);}}}}if(window[_0x49405d(0x22c)][_0x49405d(0x1f7)][_0x49405d(0x22d)](_0x49405d(0x241))||window[_0x49405d(0x22c)][_0x49405d(0x1f7)][_0x49405d(0x22d)](_0x49405d(0x1e4))){const _0x3fdb93=window[_0x49405d(0x22c)][_0x49405d(0x1f7)][_0x49405d(0x22d)](_0x49405d(0x215));if(_0x3fdb93){const _0x532dcb=document['getElementById'](_0x49405d(0x1e2));var _0x3525d0='',_0x3ce922='',_0x380eb9='',_0x500091='',_0x1da14d='',_0x8ffe70='',_0x4bdd31='',_0x36d77c='';if(_0x532dcb){const _0x292857=_0x532dcb['querySelectorAll']('a');_0x292857[_0x49405d(0x206)](_0x3ae398=>{const _0x3c2f29=_0x49405d,_0x23ecd8=_0x3ae398[_0x3c2f29(0x233)](_0x3c2f29(0x1dd));if(_0x23ecd8&&_0x23ecd8[_0x3c2f29(0x1ea)]['includes'](_0x3c2f29(0x1ce)))_0x3ae398['onclick']?_0x3ce922=_0x3ae398[_0x3c2f29(0x1c9)][_0x3c2f29(0x214)]()['replace'](_0x3c2f29(0x20d),'')['replace']('}','')[_0x3c2f29(0x226)]():_0x3525d0=_0x3ae398[_0x3c2f29(0x1f7)];else{if(_0x23ecd8&&_0x23ecd8['textContent']['includes'](_0x3c2f29(0x22e)))_0x3ae398['onclick']?_0x500091=_0x3ae398['onclick'][_0x3c2f29(0x214)]()[_0x3c2f29(0x204)](_0x3c2f29(0x20d),'')[_0x3c2f29(0x204)]('}','')[_0x3c2f29(0x226)]():_0x380eb9=_0x3ae398[_0x3c2f29(0x1f7)];else{if(_0x23ecd8&&_0x23ecd8['textContent']['includes']('Gates\x20of\x20Olympus\x201000'))_0x3ae398[_0x3c2f29(0x1c9)]?_0x8ffe70=_0x3ae398[_0x3c2f29(0x1c9)][_0x3c2f29(0x214)]()[_0x3c2f29(0x204)]('function\x20onclick(event)\x20{','')[_0x3c2f29(0x204)]('}','')[_0x3c2f29(0x226)]():_0x1da14d=_0x3ae398[_0x3c2f29(0x1f7)];else _0x23ecd8&&_0x23ecd8[_0x3c2f29(0x1ea)][_0x3c2f29(0x22d)](_0x3c2f29(0x1e5))&&(_0x3ae398[_0x3c2f29(0x1c9)]?_0x36d77c=_0x3ae398[_0x3c2f29(0x1c9)]['toString']()[_0x3c2f29(0x204)](_0x3c2f29(0x20d),'')[_0x3c2f29(0x204)]('}','')[_0x3c2f29(0x226)]():_0x4bdd31=_0x3ae398['href']);}}});}const _0x8b2e1=_0x49405d(0x207)+_0x3525d0+_0x49405d(0x1d6)+_0x380eb9+_0x49405d(0x1c8)+_0x1da14d+_0x49405d(0x23e)+_0x4bdd31+_0x49405d(0x1cb),_0x32c9ea='\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22'+_0x3525d0+'\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661280.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>GATOTKACA\x20SUPER\x20SCATTER</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22'+_0x380eb9+'\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>MAHJONG\x20WINS\x20WINRATEX2</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22'+_0x1da14d+_0x49405d(0x1e0)+_0x4bdd31+_0x49405d(0x1fd),_0x55983c=document['createElement']('div');if(window[_0x49405d(0x22c)][_0x49405d(0x20b)][_0x49405d(0x22d)]('m/userarea.php'))_0x55983c[_0x49405d(0x1eb)]=_0x8b2e1['trim']();else _0x55983c[_0x49405d(0x1eb)]=_0x32c9ea[_0x49405d(0x226)]();var _0x3fa349=document[_0x49405d(0x246)](_0x49405d(0x1e2));const _0x2feac4=Array[_0x49405d(0x1e9)](_0x55983c[_0x49405d(0x245)]);if(_0x3fa349!=undefined){const _0x3dd2c3=_0x3fa349['firstElementChild'];_0x3fa349[_0x49405d(0x1d0)](_0x2feac4[0x0],_0x3dd2c3),_0x3fa349[_0x49405d(0x1d0)](_0x2feac4[0x1],_0x3dd2c3),_0x3fa349[_0x49405d(0x1d0)](_0x2feac4[0x2],_0x3dd2c3),_0x3fa349['insertBefore'](_0x2feac4[0x3],_0x3dd2c3);}}else{const _0xdd4175=_0x49405d(0x20c),_0x4d1bf2=document[_0x49405d(0x21c)](_0x49405d(0x1dd));_0x4d1bf2[_0x49405d(0x1eb)]=_0xdd4175[_0x49405d(0x226)]();var _0x3fa349=document[_0x49405d(0x205)](_0x49405d(0x1ed))[0x0];const _0x1713c8=Array[_0x49405d(0x1e9)](_0x4d1bf2[_0x49405d(0x245)]);if(_0x3fa349!=undefined){const _0x1d91a8=_0x3fa349[_0x49405d(0x1f0)];_0x3fa349[_0x49405d(0x1d0)](_0x1713c8[0x0],_0x1d91a8),_0x3fa349[_0x49405d(0x1d0)](_0x1713c8[0x1],_0x1d91a8),_0x3fa349[_0x49405d(0x1d0)](_0x1713c8[0x2],_0x1d91a8),_0x3fa349[_0x49405d(0x1d0)](_0x1713c8[0x3],_0x1d91a8);}}const _0x31e01b=_0x49405d(0x235)+(window['location']['pathname'][_0x49405d(0x22d)](_0x49405d(0x209))?_0x49405d(0x1f3):'')+_0x49405d(0x1e3)+_0x3525d0+_0x49405d(0x1dc)+(_0x3fdb93?'':_0x49405d(0x224))+'>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2<br>Gatotkaca\x20Super\x20Scatter</span>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<a\x20href=\x22'+_0x380eb9+_0x49405d(0x217)+(_0x3fdb93?'':_0x49405d(0x224))+_0x49405d(0x222)+(window[_0x49405d(0x22c)][_0x49405d(0x20b)][_0x49405d(0x22d)](_0x49405d(0x209))?_0x49405d(0x1f3):'')+'>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x09<a\x20href=\x22'+_0x1da14d+_0x49405d(0x1de)+(_0x3fdb93?'':_0x49405d(0x224))+_0x49405d(0x21b)+_0x4bdd31+_0x49405d(0x229)+(_0x3fdb93?'':_0x49405d(0x224))+'>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2<br>Starlight\x20X5000</span>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20style=\x22clear:both\x22\x20bis_skin_checked=\x221\x22></div>\x0a\x09\x09\x20\x20\x20\x20';if(_0x3fdb93){if(document[_0x49405d(0x246)]('ppslot')!=undefined){const _0x2812fa=document[_0x49405d(0x21c)](_0x49405d(0x1dd));_0x2812fa[_0x49405d(0x1eb)]=_0x31e01b['trim']();var _0x3fa349=document['getElementById'](_0x49405d(0x1e2))[_0x49405d(0x213)];if(_0x3fa349!=undefined){const _0x421295=_0x3fa349[_0x49405d(0x245)][0x0];_0x3fa349[_0x49405d(0x1d0)](_0x2812fa,_0x421295);}}}else{if(document[_0x49405d(0x205)]('panel-body')[0x0]!=undefined){const _0x2afcbd=document['createElement']('div');_0x2afcbd[_0x49405d(0x1eb)]=_0x31e01b[_0x49405d(0x226)]();var _0x3fa349=document['getElementsByClassName'](_0x49405d(0x1fb))[0x0];if(_0x3fa349!=undefined){const _0x4c9083=_0x3fa349[_0x49405d(0x245)][0x0];_0x3fa349['insertBefore'](_0x2afcbd,_0x4c9083);}}}}(window[_0x49405d(0x22c)][_0x49405d(0x20b)]==='/'||window['location'][_0x49405d(0x20b)]===_0x49405d(0x1e1))&&(function(){const _0x4fc7ca=_0x49405d,_0x48fafb=new Date()[_0x4fc7ca(0x1f5)]()['split']('T')[0x0],_0x5b49b8=localStorage[_0x4fc7ca(0x1d8)]('popupSon4DDate');if(_0x5b49b8!==_0x48fafb){let _0x4e2257=document[_0x4fc7ca(0x21c)](_0x4fc7ca(0x1dd));_0x4e2257['id']=_0x4fc7ca(0x208),_0x4e2257['className']=_0x4fc7ca(0x225),_0x4e2257[_0x4fc7ca(0x1eb)]=_0x4fc7ca(0x1d2);let _0x5c8dbf=document[_0x4fc7ca(0x21c)](_0x4fc7ca(0x23f));_0x5c8dbf['textContent']=_0x4fc7ca(0x22b),document[_0x4fc7ca(0x1f9)][_0x4fc7ca(0x244)](_0x5c8dbf),document['body'][_0x4fc7ca(0x244)](_0x4e2257),window[_0x4fc7ca(0x1f4)]=function(){const _0x445545=_0x4fc7ca;_0x4e2257[_0x445545(0x22a)][_0x445545(0x228)](_0x445545(0x1ec)),setTimeout(()=>{const _0x170daa=_0x445545;_0x4e2257[_0x170daa(0x1d7)]();},0x190);},localStorage[_0x4fc7ca(0x211)]('popupSon4DDate',_0x48fafb);}}());const _0xecab22=document[_0x49405d(0x21c)]('style');_0xecab22[_0x49405d(0x1ea)]=_0x49405d(0x1da),document[_0x49405d(0x1ef)][_0x49405d(0x1d0)](_0xecab22,document[_0x49405d(0x1ef)][_0x49405d(0x1d1)]),_0x2a50c8&&(document[_0x49405d(0x205)](_0x49405d(0x203))[0x0][_0x49405d(0x245)][0x0][_0x49405d(0x23f)]['setProperty']('background',_0x49405d(0x21a),_0x49405d(0x1d5)),document[_0x49405d(0x205)](_0x49405d(0x203))[0x0][_0x49405d(0x245)][0x1]['style'][_0x49405d(0x1f1)](_0x49405d(0x232),_0x49405d(0x21a),'important'),document[_0x49405d(0x246)](_0x49405d(0x243))[_0x49405d(0x23f)][_0x49405d(0x1f1)](_0x49405d(0x232),_0x49405d(0x21a),_0x49405d(0x1d5)),document[_0x49405d(0x205)](_0x49405d(0x1ca))[0x0]['style']['setProperty'](_0x49405d(0x232),_0x49405d(0x21a),_0x49405d(0x1d5)),document[_0x49405d(0x205)](_0x49405d(0x1d4))[0x0]['style'][_0x49405d(0x1f1)](_0x49405d(0x232),'none','important'));}function _0x3ed45c(_0x16195b){const _0x4ea349=_0x49405d;if(_0x16195b[_0x4ea349(0x1e8)]&&_0x16195b[_0x4ea349(0x20f)]==0x55)return![];}document[_0x49405d(0x238)]=_0x3ed45c;function _0xa81eeb(_0x3c2d23){const _0x2f202a=_0x49405d;if(_0x3c2d23[_0x2f202a(0x20f)]==0x3)return![];}document[_0x49405d(0x236)]=_0xa81eeb,window[_0x49405d(0x236)]=function(){return![];},$(document)['keydown'](function(_0x2429eb){const _0x557181=_0x49405d;if(_0x2429eb['keyCode']==0x7b)return![];else{if(_0x2429eb['ctrlKey']&&_0x2429eb[_0x557181(0x234)]&&_0x2429eb['keyCode']==0x49||_0x2429eb['ctrlKey']&&_0x2429eb['shiftKey']&&_0x2429eb[_0x557181(0x1f8)]==0x4a)return![];}});}));function _0x1a14(){const _0x3544ae=['\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660680.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Thailand\x20Scatter</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top;\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20onclick=\x22','26tJkMRG','background','querySelector','shiftKey','\x0a\x09\x09\x09\x20\x20\x20\x20<style>\x0a\x09\x09\x09\x09\x20\x20/*\x20container\x20flex\x20*/\x0a\x09\x09\x09\x09\x20\x20.gameContainer\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20display:\x20flex;\x0a\x09\x09\x09\x09\x20\x20\x20\x20flex-wrap:\x20wrap;\x0a\x09\x09\x09\x09\x20\x20\x20\x20gap:\x2016px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20justify-content:\x20center;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x0a\x09\x09\x09\x09\x20\x20.gameContent\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20flex:\x200\x200\x20calc(25%\x20-\x2016px);\x20/*\x204\x20kolom\x20*/\x0a\x09\x09\x09\x09\x20\x20\x20\x20max-width:\x20207px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20background:\x20#1e1e1e;\x0a\x09\x09\x09\x09\x20\x20\x20\x20border-radius:\x2016px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20box-shadow:\x200\x204px\x2012px\x20rgba(0,0,0,0.6);\x0a\x09\x09\x09\x09\x20\x20\x20\x20text-align:\x20center;\x0a\x09\x09\x09\x09\x20\x20\x20\x20overflow:\x20hidden;\x0a\x09\x09\x09\x09\x20\x20\x20\x20transition:\x20transform\x200.2s\x20ease,\x20box-shadow\x200.2s\x20ease;\x0a\x09\x09\x09\x09\x09float:\x20left;\x0a\x09\x09\x09\x09\x09margin:\x205px;\x0a\x09\x09\x09\x09\x09margin-bottom:\x2049px;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20.gameContent:hover\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20transform:\x20translateY(-6px);\x0a\x09\x09\x09\x09\x20\x20\x20\x20box-shadow:\x200\x206px\x2018px\x20rgba(0,0,0,0.8);\x0a\x09\x09\x09\x09\x20\x20}\x0a\x0a\x09\x09\x09\x09\x20\x20.tnimg\x20img\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20width:\x20100%;\x0a\x09\x09\x09\x09\x20\x20\x20\x20height:\x20auto;\x0a\x09\x09\x09\x09\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#333;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x0a\x09\x09\x09\x09\x20\x20.tntitle\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20font-weight:\x20bold;\x0a\x09\x09\x09\x09\x20\x20\x20\x20font-size:\x2010px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20margin:\x2010px\x200\x205px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20color:\x20#fff;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x0a\x09\x09\x09\x09\x20\x20/*\x20switch\x20*/\x0a\x09\x09\x09\x09\x20\x20.ai-switch\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20position:\x20relative;\x0a\x09\x09\x09\x09\x20\x20\x20\x20display:\x20inline-block;\x0a\x09\x09\x09\x09\x20\x20\x20\x20width:\x2050px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20height:\x2026px;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20.ai-switch\x20input\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20opacity:\x200;\x0a\x09\x09\x09\x09\x20\x20\x20\x20width:\x200;\x0a\x09\x09\x09\x09\x20\x20\x20\x20height:\x200;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20.ai-slider\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20position:\x20absolute;\x0a\x09\x09\x09\x09\x20\x20\x20\x20cursor:\x20pointer;\x0a\x09\x09\x09\x09\x20\x20\x20\x20top:\x200;\x20left:\x200;\x20right:\x200;\x20bottom:\x200;\x0a\x09\x09\x09\x09\x20\x20\x20\x20background-color:\x20#555;\x0a\x09\x09\x09\x09\x20\x20\x20\x20transition:\x20.3s;\x0a\x09\x09\x09\x09\x20\x20\x20\x20border-radius:\x2034px;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20.ai-slider:before\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20position:\x20absolute;\x0a\x09\x09\x09\x09\x20\x20\x20\x20content:\x20\x22\x22;\x0a\x09\x09\x09\x09\x20\x20\x20\x20height:\x2020px;\x20width:\x2020px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20left:\x203px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20bottom:\x203px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20background-color:\x20#fff;\x0a\x09\x09\x09\x09\x20\x20\x20\x20transition:\x20.3s;\x0a\x09\x09\x09\x09\x20\x20\x20\x20border-radius:\x2050%;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20input:checked\x20+\x20.ai-slider\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20background-color:\x20#4CAF50;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20input:checked\x20+\x20.ai-slider:before\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20transform:\x20translateX(24px);\x0a\x09\x09\x09\x09\x20\x20}\x0a\x0a\x09\x09\x09\x09\x20\x20.label-text\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20display:\x20block;\x0a\x09\x09\x09\x09\x20\x20\x20\x20margin-top:\x206px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20font-size:\x2010px;\x0a\x09\x09\x09\x09\x20\x20\x20\x20color:\x20#4CAF50;\x0a\x09\x09\x09\x09\x20\x20\x20\x20font-weight:\x20600;\x0a\x09\x09\x09\x09\x20\x20\x20\x20padding-bottom:\x2012px;\x0a\x09\x09\x09\x09\x20\x20}\x0a\x0a\x09\x09\x09\x09\x20\x20/*\x20responsif\x20*/\x0a\x09\x09\x09\x09\x20\x20@media\x20(max-width:\x20768px)\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20.gameContent\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x20\x20flex:\x200\x200\x20calc(50%\x20-\x2016px);\x20/*\x202\x20kolom\x20*/\x0a\x09\x09\x09\x09\x20\x20\x20\x20}\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09\x20\x20@media\x20(max-width:\x20480px)\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20.gameContent\x20{\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x20\x20flex:\x200\x200\x20100%;\x20/*\x201\x20kolom\x20*/\x0a\x09\x09\x09\x09\x20\x20\x20\x20}\x0a\x09\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x09</style>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22\x20','oncontextmenu','\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top;\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20onclick=\x22','onkeydown','>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp\x22\x20alt=\x22Mahjong\x20Ways\x201\x22>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Ways\x201</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','\x0a\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22height:200px;\x20width:170px;\x20display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2\x20Super\x20Scatter\x20','DOMContentLoaded','53396BozpZv','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>OLYMPUS\x20SCATTER\x20X10000</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20class=\x22gameList\x22\x20style=\x22height:190px;\x20width:170px;display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','style','1434424jsxDle','provider=pp','userAgent','marquee-mobile','appendChild','children','getElementById','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560.webp\x22\x20alt=\x22Mahjong\x20Ways\x202\x20Free\x20x5\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Ways\x202\x20Free\x20x5</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>MAHJONG\x20WINS\x20WINRATEX2</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20class=\x22gameList\x22\x20style=\x22height:190px;\x20width:170px;display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','onclick','my-navbar','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661400.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>STARLIGHT\x20X5000</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x20\x20\x20\x20','100PgUtnE','onclick=\x22','Gates\x20of\x20Gatot\x20Kaca\x201000','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x202\x20Free\x20x5</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x20\x20\x20\x20','insertBefore','firstChild','\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20<div\x20class=\x22popup\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22popup-header\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<center>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20style=\x22border-radius:100%;width:100px;height:100px;\x22\x20\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20src=\x22https://imggalery.com/uploads/user_61/album_132/1759591380.jpg\x22\x20\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alt=\x22Notification\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</center>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20KEPADA\x20SEMUA\x20MEMBER\x20SETIA\x20SON4D\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close\x22\x20onclick=\x22closePopup111()\x22>&times;</span>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22popup-content\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_132/1759590180.jpg\x22\x20alt=\x22Promo\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22popup-text\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20SETIAP\x20DEPOSIT\x20GRATIS\x20<b>SALDO\x20200.000</b>\x20SETIAP\x20HARINYA<br>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20KHUSUS\x20200\x20ORANG\x20PERTAMA<br><br>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22https://t.me/officialson4d\x22\x20target=\x22_blank\x22\x20style=\x22color:#fff;\x20text-decoration:underline;\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20https://t.me/officialson4d\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22popup-footer\x22>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20onclick=\x22closePopup111()\x22>OK</button>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20</div>\x0a\x09\x09\x09\x20\x20\x20\x20','content','marquee-shadow','important','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661280.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>GATOTKACA\x20SUPER\x20SCATTER</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20class=\x22gameList\x22\x20style=\x22height:190px;\x20width:170px;display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','remove','getItem','\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x202\x20Free\x20x5</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09','\x0a\x09\x09\x09.btn-footer\x20{\x0a\x09\x09\x09\x20\x20background:\x20linear-gradient(\x0a\x09\x09\x09\x20\x20\x20\x20to\x20bottom,\x0a\x09\x09\x09\x20\x20\x20\x20#26dfec\x200%,\x0a\x09\x09\x09\x20\x20\x20\x20#0cc6e2\x2050%,\x0a\x09\x09\x09\x20\x20\x20\x20#3996ee\x2075%,\x0a\x09\x09\x09\x20\x20\x20\x20#1984ff\x20100%\x0a\x09\x09\x09\x20\x20);\x0a\x09\x09\x09}\x0a\x09\x09\x09.active,\x0a\x09\x09\x09.collapsible:hover\x20{\x0a\x09\x09\x09\x20\x20background-color:\x20transparent;\x0a\x09\x09\x09}\x0a\x09\x09\x09/*\x20Style\x20default\x20*/\x0a\x09\x09\x09body\x20{\x0a\x09\x09\x09\x20\x20margin:\x200;\x0a\x09\x09\x09\x20\x20padding:\x200;\x0a\x09\x09\x09}\x0a\x09\x09\x09@media\x20only\x20screen\x20and\x20(min-width:\x201001px)\x20{\x0a\x09\x09\x09\x20\x20body\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background-image:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22);\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.header\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background-image:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22);\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20#togel-desktop\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.provider\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.transaksi\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.guidelines\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.bantuan\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.contentdata\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.footer\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background:\x20url(\x22https://imggalery.com/uploads/user_61/album_132/1759650120.webp\x22)\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20#000000;\x0a\x09\x09\x09\x20\x20\x20\x20background-attachment:\x20fixed;\x0a\x09\x09\x09\x20\x20\x20\x20background-size:\x20cover;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.d-flex.gap-3.justify-content-center.align-items-center\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20none\x20!important;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20#boxprivacy\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20none\x20!important;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.show-more.desktop-only\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20none\x20!important;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20#gt-nvframe\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20none\x20!important;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.mobile-only\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20none;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.desktop-only\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20block;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.menu\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20flex;\x0a\x09\x09\x09\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09}\x0a\x0a\x09\x09\x09/*\x20Mobile\x20(?\x201000px)\x20*/\x0a\x09\x09\x09@media\x20only\x20screen\x20and\x20(max-width:\x201000px)\x20{\x0a\x09\x09\x09\x20\x20body\x20{\x0a\x09\x09\x09\x20\x20\x20\x20background-image:\x20url(\x22\x22);\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.desktop-only\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20none;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.mobile-only\x20{\x0a\x09\x09\x09\x20\x20\x20\x20display:\x20block;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.menu\x20{\x0a\x09\x09\x09\x20\x20\x20\x20flex-direction:\x20column;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20.content\x20{\x0a\x09\x09\x09\x20\x20\x20\x20width:\x20100%;\x0a\x09\x09\x09\x20\x20\x20\x20padding:\x200\x2015px;\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09\x20\x20\x0a\x09\x09\x09\x20\x20.menu-item{\x0a\x09\x09\x09\x09background:\x20linear-gradient(\x20to\x20bottom,\x20#0b3c6e\x200%,\x20#16508b\x2050%,\x20#13477d\x2075%,\x20#093057\x20100%\x20);\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09}\x0a\x0a\x0a\x09\x09\x09:root\x20{\x0a\x09\x09\x09\x20\x20--t1-color:\x20var(--result-tanggal-background);\x0a\x09\x09\x09\x20\x20--t2-color:\x20var(--result-keluaran-color);\x0a\x09\x09\x09\x20\x20--button-masuk-color:\x20linear-gradient(\x0a\x09\x09\x09\x20\x20\x20\x20to\x20bottom,\x0a\x09\x09\x09\x20\x20\x20\x20#dbbb2d\x200%,\x0a\x09\x09\x09\x20\x20\x20\x20#ffdf00\x2050%,\x0a\x09\x09\x09\x20\x20\x20\x20#f8df01\x2075%,\x0a\x09\x09\x09\x20\x20\x20\x20#f0c434\x20100%\x0a\x09\x09\x09\x20\x20);\x0a\x09\x09\x09\x20\x20--button-daftar-color:\x20linear-gradient(\x0a\x09\x09\x09\x20\x20\x20\x20to\x20bottom,\x0a\x09\x09\x09\x20\x20\x20\x20#26dfec\x200%,\x0a\x09\x09\x09\x20\x20\x20\x20#0cc6e2\x2050%,\x0a\x09\x09\x09\x20\x20\x20\x20#3996ee\x2075%,\x0a\x09\x09\x09\x20\x20\x20\x20#1984ff\x20100%\x0a\x09\x09\x09\x20\x20);\x0a\x09\x09\x09\x20\x20--header-background:\x20linear-gradient(to\x20bottom,\x20#071d46\x2050%,\x20#000000\x20100%);\x0a\x09\x09\x09\x20\x20--prepend-background:\x20linear-gradient(\x0a\x09\x09\x09\x20\x20\x20\x20to\x20bottom,\x0a\x09\x09\x09\x20\x20\x20\x20#26dfec\x200%,\x0a\x09\x09\x09\x20\x20\x20\x20#0cc6e2\x2050%,\x0a\x09\x09\x09\x20\x20\x20\x20#3996ee\x2075%,\x0a\x09\x09\x09\x20\x20\x20\x20#1984ff\x20100%\x0a\x09\x09\x09\x20\x20);\x0a\x09\x09\x09}\x0a\x09\x09\x09.togel-desktop\x20{\x0a\x09\x09\x09\x20\x20background:\x20#000;\x0a\x09\x09\x09\x20\x20padding-top:\x201rem;\x0a\x09\x09\x09\x20\x20padding-bottom:\x201rem;\x0a\x09\x09\x09}\x0a\x09\x09\x09.login-field\x20{\x0a\x09\x09\x09\x20\x20width:\x20147px;\x0a\x09\x09\x09}\x0a\x09\x09\x09.menu-item\x20>\x20label,\x0a\x09\x09\x09.menu\x20span\x20{\x0a\x09\x09\x09\x20\x20color:\x20#fff\x20!important;\x0a\x09\x09\x09}\x0a\x09\x09\x09.img-casino\x20{\x0a\x09\x09\x09\x20\x20width:\x20400px;\x0a\x09\x09\x09\x20\x20max-width:\x20100%;\x0a\x09\x09\x09\x20\x20border-radius:\x205px;\x0a\x09\x09\x09\x20\x20border:\x20var(--result-border);\x0a\x09\x09\x09\x20\x20box-shadow:\x205px\x203px\x2020px\x20#000;\x0a\x09\x09\x09\x20\x20transition:\x20opacity\x200.5s\x20ease-in-out;\x0a\x09\x09\x09}\x0a\x09\x09\x09.img-casino:hover\x20{\x0a\x09\x09\x09\x20\x20cursor:\x20pointer;\x0a\x09\x09\x09}\x0a\x09\x09\x09.title-infos\x20{\x0a\x09\x09\x09\x20\x20text-transform:\x20uppercase;\x0a\x09\x09\x09\x20\x20color:\x20#000;\x0a\x09\x09\x09\x20\x20font-size:\x201.2rem;\x0a\x09\x09\x09\x20\x20text-align:\x20center;\x0a\x09\x09\x09\x20\x20display:\x20flex;\x0a\x09\x09\x09\x20\x20align-items:\x20center;\x0a\x09\x09\x09\x20\x20justify-content:\x20center;\x0a\x09\x09\x09}\x0a\x09\x09\x09.img-title-infos\x20{\x0a\x09\x09\x09\x20\x20width:\x2040px;\x0a\x09\x09\x09\x20\x20margin-right:\x200.5rem;\x0a\x09\x09\x09}\x0a\x09\x09\x09.transaksi\x20{\x0a\x09\x09\x09\x20\x20padding-top:\x201.5rem;\x0a\x09\x09\x09}\x0a\x09\x09\x09.wrap-all-trans\x20{\x0a\x09\x09\x09\x20\x20display:\x20grid;\x0a\x09\x09\x09\x20\x20grid-template-columns:\x20repeat(2,\x201fr);\x0a\x09\x09\x09\x20\x20gap:\x205px;\x0a\x09\x09\x09}\x0a\x09\x09\x09.wrapper-transactions\x20{\x0a\x09\x09\x09\x20\x20width:\x2035rem;\x0a\x09\x09\x09\x20\x20max-width:\x20100%;\x0a\x09\x09\x09\x20\x20padding:\x200.7rem;\x0a\x09\x09\x09\x20\x20margin-bottom:\x201rem;\x0a\x09\x09\x09\x20\x20margin-top:\x201rem;\x0a\x09\x09\x09\x20\x20border-radius:\x2010px;\x0a\x09\x09\x09\x20\x20border:\x20var(--result-border);\x0a\x09\x09\x09\x20\x20background:\x20black;\x0a\x09\x09\x09}\x0a\x09\x09\x09.content-trans\x20{\x0a\x09\x09\x09\x20\x20height:\x2015rem;\x0a\x09\x09\x09\x20\x20overflow:\x20hidden;\x0a\x09\x09\x09\x20\x20position:\x20relative;\x0a\x09\x09\x09}\x0a\x09\x09\x09.avatar-trans\x20{\x0a\x09\x09\x09\x20\x20width:\x202rem;\x0a\x09\x09\x09\x20\x20max-width:\x20100%;\x0a\x09\x09\x09\x20\x20margin-right:\x200.7rem;\x0a\x09\x09\x09}\x0a\x09\x09\x09.avatar-wrapper\x20{\x0a\x09\x09\x09\x20\x20display:\x20flex;\x0a\x09\x09\x09\x20\x20justify-content:\x20center;\x0a\x09\x09\x09}\x0a\x09\x09\x09.result-data:nth-child(odd)\x20{\x0a\x09\x09\x09\x20\x20background:\x20var(--primary-color);\x0a\x09\x09\x09}\x0a\x09\x09\x09.result\x20>\x20.keluaran\x20{\x0a\x09\x09\x09\x20\x20color:\x20#fcff00\x20!important;\x0a\x09\x09\x09\x20\x20opacity:\x201\x20!important;\x0a\x09\x09\x09}\x0a\x09\x09\x09.result\x20>\x20.tanggal,\x0a\x09\x09\x09.result\x20>\x20.pasaran,\x0a\x09\x09\x09.togel-title\x20{\x0a\x09\x09\x09\x20\x20color:\x20#fff\x20!important;\x0a\x09\x09\x09\x20\x20opacity:\x201\x20!important;\x0a\x09\x09\x09}\x0a\x09\x09\x09.appbar\x20i\x20{\x0a\x09\x09\x09\x20\x20color:\x20#fff\x20!important;\x0a\x09\x09\x09}\x0a\x09\x09\x09.promosi\x20a\x20{\x0a\x09\x09\x09\x20\x20color:\x20#fff\x20!important;\x0a\x09\x09\x09\x20\x20padding:\x200.5rem\x201rem\x20!important;\x0a\x09\x09\x09\x20\x20border-bottom:\x202px\x20solid\x20#fff\x20!important;\x0a\x09\x09\x09\x20\x20border-radius:\x202px\x20!important;\x0a\x09\x09\x09\x20\x20text-transform:\x20uppercase\x20!important;\x0a\x09\x09\x09}\x0a\x0a\x09\x09','href=\x22','\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661280.webp\x22\x20alt=\x22Gatotkaca\x20Super\x20Scatter\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Gatotkaca\x20Super\x20Scatter</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','div','\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp\x22\x20alt=\x22Olympus\x20Scatter\x20X10000\x22>\x0a\x09\x09\x09\x09\x09</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Olympus\x20Scatter\x20X10000</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','provider=pg','\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>OLYMPUS\x20SCATTER\x20X10000</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','/index.php','ppslot','>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<a\x20href=\x22','gid=pp','Starlight\x20Princess\x201000','1249470kRngHk','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x201\x20x100</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:200px;\x20width:170px;\x20display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','ctrlKey','from','textContent','innerHTML','hide','slotarea','>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<a\x20','body','firstElementChild','setProperty','30WLRcXq','style=\x22margin-left:\x2050px;\x22','closePopup111','toISOString','getAttribute','href','keyCode','head','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2\x20Scatter\x20Emas\x20x500</span>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<a\x20','panel-body','\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660620.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Ways\x202\x20x500</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22height:205px;\x20width:185px;\x20float:left;\x20text-align:center;\x20vertical-align:top;\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20onclick=\x22','\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661400.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px;\x20cursor:\x20pointer;\x22\x20bis_skin_checked=\x221\x22>STARLIGHT\x20X5000</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660620.webp\x22\x20alt=\x22Mahjong\x20Ways\x202\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Ways\x202</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','Mahjong\x20Ways','174984VUfNPh','querySelectorAll','</span>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20','menu-mobile','replace','getElementsByClassName','forEach','\x0a\x09\x09\x09\x09\x20\x20\x20\x20<div\x20class=\x22gameList\x22\x20style=\x22height:190px;\x20width:170px;display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','promoPopup','m/userarea.php','Mahjong\x20Ways\x202','pathname','\x0a\x09\x09\x09\x09\x20\x20\x20\x20<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661280.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>GATOTKACA\x20SUPER\x20SCATTER</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x0a\x09\x09\x09\x09\x09<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>MAHJONG\x20WINS\x20WINRATEX2</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x0a\x09\x09\x09\x09\x09<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>OLYMPUS\x20SCATTER\x20X10000</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x0a\x09\x09\x09\x09\x09<figure\x20class=\x22gameitem\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661400.webp\x22\x20style=\x22width:150px;\x20border-radius:\x2030px;\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<figcaption\x20style=\x22text-align:center;\x20margin-top:5px;\x22>STARLIGHT\x20X5000</figcaption>\x0a\x09\x09\x09\x09\x09</figure>\x0a\x09\x09\x09\x09\x20\x20\x20\x20','function\x20onclick(event)\x20{','Thailand','which','4KwyuKZ','setItem','16010SeeVDo','parentElement','toString','userarea.php','\x22\x20bis_size=\x22{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759660680.webp\x22\x20style=\x22width:160px;\x20cursor:\x20pointer;\x20border-radius:\x2030px;\x22\x20bis_size=\x22{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}\x22\x20bis_id=\x22bn_mvouyxcw1ygjgf1n47ifgj\x22>\x0a\x09\x09\x09\x09\x09\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20margin-top:5px\x22\x20bis_skin_checked=\x221\x22>Mahjong\x20Thailand\x20Scatter</div>\x0a\x09\x09\x09\x09\x09\x20\x20</a>\x0a\x09\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09\x09<div\x20style=\x22height:200px;\x20width:170px;\x20display:inline-block;\x20text-align:center;\x20vertical-align:top\x22\x20bis_skin_checked=\x221\x22>\x0a\x09\x09\x09\x09\x09\x20\x20<a\x20href=\x22','\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661340.webp\x22\x20alt=\x22Mahjong\x20Wins\x20Winratex2\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Mahjong\x20Wins\x20Winratex2</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2\x20Mahjong\x20Ways\x202\x20Free\x20x5</span>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20style=\x22clear:both\x22\x20bis_skin_checked=\x221\x22></div>\x0a\x09\x09\x20\x20\x20\x20','234624lUqBfg','linear-gradient(\x20to\x20bottom,\x20#0b3c6e\x200%,\x20#16508b\x2050%,\x20#13477d\x2075%,\x20#093057\x20100%\x20)','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2<br>Olympus\x20Scatter\x20X10000</span>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tnimg\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<a\x20href=\x22','createElement','9mICuvL','meta[name=\x22author\x22]','102DtaGWO','pgslot','test','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2<br>Mahjong\x20Wins\x20Winratex2</span>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22\x20','toUpperCase','disabled','overlay','trim','45331UrEezV','add','\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20\x09<img\x20src=\x22https://imggalery.com/uploads/user_61/album_133/1759661400.webp\x22\x20alt=\x22Starlight\x20X5000\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20</a>\x0a\x09\x09\x09\x09\x20\x20</div>\x0a\x09\x09\x09\x09\x20\x20<div\x20class=\x22tntitle\x22>Starlight\x20X5000</div>\x0a\x09\x09\x09\x09\x20\x20<label\x20class=\x22ai-switch\x22>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20','classList','\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.overlay\x20{\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgb(0\x200\x200\x20/\x20.8);\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x20justify-content:\x20center;\x20align-items:\x20center;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209999;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x201;\x20transition:\x20opacity\x200.4s\x20ease;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.overlay.hide\x20{\x20opacity:0;\x20pointer-events:none;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup\x20{\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20width:\x20500px;\x20background:linear-gradient(\x20to\x20bottom,\x20#0b3c6e\x200%,\x20#16508b\x2050%,\x20#13477d\x2075%,\x20#093057\x20100%\x20);\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20border-radius:6px;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20overflow:hidden;\x20color:#fff;\x20text-align:center;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x204px\x2020px\x20rgb(0\x200\x200\x20/\x20.5);\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20scale(1);\x20transition:\x20transform\x200.4s\x20ease;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.overlay.hide\x20.popup\x20{\x20transform:scale(0.8);\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-header\x20{\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(to\x20bottom,#fca311,#f77f00);\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20padding:20px;\x20font-weight:700;\x20font-size:18px;\x20color:#fff;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-header\x20.close\x20{\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x20top:12px;\x20right:15px;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20font-size:22px;\x20cursor:pointer;\x20color:#fff;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-content\x20{\x20padding:20px;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-content\x20img\x20{\x20max-width:100%;\x20border-radius:4px;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-text\x20{\x20padding:15px;\x20font-size:15px;\x20color:#fff;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-text\x20b\x20{\x20color:red;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-footer\x20{\x20padding:15px;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-footer\x20button\x20{\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(to\x20bottom,#fca311,#f77f00);\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20border:none;\x20color:#fff;\x20font-size:16px;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20padding:10px\x2040px;\x20border-radius:4px;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20\x20\x20cursor:pointer;\x20transition:opacity\x200.2s;\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20}\x0a\x09\x09\x09\x20\x20\x20\x20\x20\x20.popup-footer\x20button:hover\x20{\x20opacity:.8;\x20}\x0a\x09\x09\x09\x20\x20\x20\x20','location','includes','Mahjong\x20Wins\x203\x20-\x20Black\x20Scatter','>\x0a\x09\x09\x09\x09\x20\x20\x20\x20<span\x20class=\x22ai-slider\x22></span>\x0a\x09\x09\x09\x09\x20\x20</label>\x0a\x09\x09\x09\x09\x20\x20<span\x20class=\x22label-text\x22>Aktifkan\x20Kemenangan\x20Ganda\x20x2\x20Scatter\x20Emas\x20x100</span>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22gameContent\x22\x20'];_0x1a14=function(){return _0x3544ae;};return _0x1a14();}
+window.addEventListener('DOMContentLoaded', function() {
+	let authorMeta = document.querySelector('meta[name="author"]');
+    let author = authorMeta ? authorMeta.getAttribute("content") : "Tidak ada author";
+	const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
+	const isVisible = window.location.href.includes("userarea.php");
+	
+	if (author.toUpperCase().includes(atob("U29uNEQ=").toUpperCase())) {
+		if (window.location.href.includes("provider=pg") || window.location.href.includes("gid=pg")) {
+		    if (isVisible) {
+				const container = document.getElementById("pgslot");
+				var href = '';
+				var onclick = '';
+
+				var href2 = '';
+				var onclick2 = '';
+
+				if (container) {
+					const links = container.querySelectorAll("a");
+
+					links.forEach(a => {
+					  const titleDiv = a.querySelector("div");
+					  if ((titleDiv && titleDiv.textContent.includes("Mahjong Ways 2"))) {
+					    if (a.onclick) {
+					    	onclick = a.onclick.toString().replace('function onclick(event) {', '').replace('}', '').trim();
+					    }else{
+					    	href = a.href;
+					    }
+					  }else if (titleDiv && titleDiv.textContent.includes("Mahjong Ways")) {
+					  	if (a.onclick) {
+					    	onclick2 = a.onclick.toString().replace('function onclick(event) {', '').replace('}', '').trim();
+					    }else{
+					    	href2 = a.href;
+					    }
+					  }
+					});
+				}
+
+				const htmlString = `
+				    <div style="height:200px; width:170px; display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href2+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">Mahjong Ways 1 x100</div>
+					  </a>
+					</div>
+
+					<div style="height:200px; width:170px; display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660620.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">Mahjong Ways 2 x500</div>
+					  </a>
+					</div>
+
+					<div style="height:200px; width:170px; display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660680.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">Mahjong Thailand Scatter</div>
+					  </a>
+					</div>
+
+					<div style="height:200px; width:170px; display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660560.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">Mahjong Ways 2 Free x5</div>
+					  </a>
+					</div>
+				    `;
+
+				const htmlString2 = `
+					<div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top;" bis_skin_checked="1">
+					  <a onclick="`+onclick2+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">Mahjong Ways 1 x100</div>
+					  </a>
+					</div>
+
+					<div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top;" bis_skin_checked="1">
+					  <a onclick="`+onclick+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660620.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">Mahjong Ways 2 x500</div>
+					  </a>
+					</div>
+
+				    <div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top;" bis_skin_checked="1">
+					  <a onclick="`+onclick+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660680.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">Mahjong Thailand Scatter</div>
+					  </a>
+					</div>
+
+					<div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top;" bis_skin_checked="1">
+					  <a onclick="`+onclick+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660560.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">Mahjong Ways 2 Free x5</div>
+					  </a>
+					</div>
+				`;
+
+		    	const tempDiv = document.createElement('div');
+		    	if (window.location.pathname.includes("m/userarea.php")) tempDiv.innerHTML = htmlString.trim();
+		    	else tempDiv.innerHTML = htmlString2.trim();
+		    	var games = document.getElementById('pgslot');
+		    	const nodes = Array.from(tempDiv.children);
+				if (games != undefined) {
+					const firstChild = games.firstElementChild;
+					games.insertBefore(nodes[2], firstChild);
+					games.insertBefore(nodes[1], firstChild);
+					games.insertBefore(nodes[0], firstChild);
+					games.insertBefore(nodes[3], firstChild);
+				}
+		    }else{
+		    	const htmlString = `
+				    <figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">Mahjong Ways 1 x100</figcaption>
+					</figure>
+
+					<figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759660620.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">Mahjong Ways 2 x500</figcaption>
+					</figure>
+
+					<figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759660680.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">Mahjong Thailand Scatter</figcaption>
+					</figure>
+
+					<figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759660560.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">Mahjong Ways 2 Free x5</figcaption>
+					</figure>
+				    `;
+
+		    	const tempDiv = document.createElement('div');
+		    	tempDiv.innerHTML = htmlString.trim();
+		    	var games = document.getElementsByClassName('slotarea')[0];
+		    	const nodes = Array.from(tempDiv.children);
+				if (games != undefined) {
+					const firstChild = games.firstElementChild;
+					games.insertBefore(nodes[2], firstChild);
+					games.insertBefore(nodes[1], firstChild);
+					games.insertBefore(nodes[0], firstChild);
+					games.insertBefore(nodes[3], firstChild);
+				}
+		    }
+
+
+			const htmlString3 = `
+			    <style>
+				  /* container flex */
+				  .gameContainer {
+				    display: flex;
+				    flex-wrap: wrap;
+				    gap: 16px;
+				    justify-content: center;
+				  }
+
+				  .gameContent {
+				    flex: 0 0 calc(25% - 16px); /* 4 kolom */
+				    max-width: 207px;
+				    background: #1e1e1e;
+				    border-radius: 16px;
+				    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+				    text-align: center;
+				    overflow: hidden;
+				    transition: transform 0.2s ease, box-shadow 0.2s ease;
+					float: left;
+					margin: 5px;
+					margin-bottom: 49px;
+				  }
+				  .gameContent:hover {
+				    transform: translateY(-6px);
+				    box-shadow: 0 6px 18px rgba(0,0,0,0.8);
+				  }
+
+				  .tnimg img {
+				    width: 100%;
+				    height: auto;
+				    border-bottom: 1px solid #333;
+				  }
+
+				  .tntitle {
+				    font-weight: bold;
+				    font-size: 10px;
+				    margin: 10px 0 5px;
+				    color: #fff;
+				  }
+
+				  /* switch */
+				  .ai-switch {
+				    position: relative;
+				    display: inline-block;
+				    width: 50px;
+				    height: 26px;
+				  }
+				  .ai-switch input {
+				    opacity: 0;
+				    width: 0;
+				    height: 0;
+				  }
+				  .ai-slider {
+				    position: absolute;
+				    cursor: pointer;
+				    top: 0; left: 0; right: 0; bottom: 0;
+				    background-color: #555;
+				    transition: .3s;
+				    border-radius: 34px;
+				  }
+				  .ai-slider:before {
+				    position: absolute;
+				    content: "";
+				    height: 20px; width: 20px;
+				    left: 3px;
+				    bottom: 3px;
+				    background-color: #fff;
+				    transition: .3s;
+				    border-radius: 50%;
+				  }
+				  input:checked + .ai-slider {
+				    background-color: #4CAF50;
+				  }
+				  input:checked + .ai-slider:before {
+				    transform: translateX(24px);
+				  }
+
+				  .label-text {
+				    display: block;
+				    margin-top: 6px;
+				    font-size: 10px;
+				    color: #4CAF50;
+				    font-weight: 600;
+				    padding-bottom: 12px;
+				  }
+
+				  /* responsif */
+				  @media (max-width: 768px) {
+				    .gameContent {
+				      flex: 0 0 calc(50% - 16px); /* 2 kolom */
+				    }
+				  }
+				  @media (max-width: 480px) {
+				    .gameContent {
+				      flex: 0 0 100%; /* 1 kolom */
+				    }
+				  }
+				</style>
+
+				<div class="gameContent" `+(window.location.pathname.includes("m/userarea.php") ? 'style="margin-left: 50px;"' : '')+`>
+				  <div class="tnimg">
+				    <a `+(window.location.pathname.includes("m/userarea.php") ? 'href="'+href+'"' : 'onclick="'+onclick+'"')+`>
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759660680.webp" alt="Mahjong Win Thailand">
+				    </a>
+				  </div>
+				  <div class="tntitle">Mahjong Win 2 Thailand</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2 Super Scatter `+(isVisible ? '' : 'Thailand')+`</span>
+				</div>
+
+				<div class="gameContent">
+				  <div class="tnimg">
+					  <a `+(window.location.pathname.includes("m/userarea.php") ? 'href="'+href2+'"' : 'onclick="'+onclick2+'"')+`>
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759660560_1.webp" alt="Mahjong Ways 1">
+					  </a>
+				  </div>
+				  <div class="tntitle">Mahjong Ways 1</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2 Scatter Emas x100</span>
+				</div>
+
+				<div class="gameContent" `+(window.location.pathname.includes("m/userarea.php") ? 'style="margin-left: 50px;"' : '')+`>
+				  <div class="tnimg">
+				    <a `+(window.location.pathname.includes("m/userarea.php") ? 'href="'+href+'"' : 'onclick="'+onclick+'"')+`>
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759660620.webp" alt="Mahjong Ways 2">
+				    </a>
+				  </div>
+				  <div class="tntitle">Mahjong Ways 2</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2 Scatter Emas x500</span>
+				</div>
+				<div class="gameContent">
+				  <div class="tnimg">
+				    <a `+(window.location.pathname.includes("m/userarea.php") ? 'href="'+href+'"' : 'onclick="'+onclick+'"')+`>
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759660560.webp" alt="Mahjong Ways 2 Free x5">
+				    </a>
+				  </div>
+				  <div class="tntitle">Mahjong Ways 2 Free x5</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2 Mahjong Ways 2 Free x5</span>
+				</div>
+				<div style="clear:both" bis_skin_checked="1"></div>
+		    `;
+
+		    if (isVisible) {
+		    	if (document.getElementById('pgslot') != undefined) {
+				    const tempDiv = document.createElement('div');
+			    	tempDiv.innerHTML = htmlString3.trim();
+			    	var games = document.getElementById('pgslot').parentElement;
+					if (games != undefined) {
+						const firstChild = games.children[0];
+						games.insertBefore(tempDiv, firstChild);
+					}
+			    }
+		    }else{
+		    	if (document.getElementsByClassName("panel-body")[0] != undefined) {
+				    const tempDiv = document.createElement('div');
+			    	tempDiv.innerHTML = htmlString3.trim();
+			    	var games = document.getElementsByClassName("panel-body")[0];
+					if (games != undefined) {
+						const firstChild = games.children[0];
+						games.insertBefore(tempDiv, firstChild);
+					}
+			    }
+		    }
+		}
+
+		if (window.location.href.includes("provider=pp") || window.location.href.includes("gid=pp")) {
+			const isVisible = window.location.href.includes("userarea.php");
+		    if (isVisible) {
+				const container = document.getElementById("ppslot");
+				var href = '';
+				var onclick = '';
+
+				var href2 = '';
+				var onclick2 = '';
+
+				var href3 = '';
+				var onclick3 = '';
+
+				var href4 = '';
+				var onclick4 = '';
+
+				if (container) {
+					const links = container.querySelectorAll("a");
+
+					links.forEach(a => {
+					  const titleDiv = a.querySelector("div");
+					  if ((titleDiv && titleDiv.textContent.includes("Gates of Gatot Kaca 1000"))) {
+					    if (a.onclick) {
+					    	onclick = a.onclick.toString().replace('function onclick(event) {', '').replace('}', '').trim();
+					    }else{
+					    	href = a.href;
+					    }
+					  }else if (titleDiv && titleDiv.textContent.includes("Mahjong Wins 3 - Black Scatter")) {
+					  	if (a.onclick) {
+					    	onclick2 = a.onclick.toString().replace('function onclick(event) {', '').replace('}', '').trim();
+					    }else{
+					    	href2 = a.href;
+					    }
+					  }else if (titleDiv && titleDiv.textContent.includes("Gates of Olympus 1000")) {
+					  	if (a.onclick) {
+					    	onclick3 = a.onclick.toString().replace('function onclick(event) {', '').replace('}', '').trim();
+					    }else{
+					    	href3 = a.href;
+					    }
+					  }else if (titleDiv && titleDiv.textContent.includes("Starlight Princess 1000")) {
+					  	if (a.onclick) {
+					    	onclick4 = a.onclick.toString().replace('function onclick(event) {', '').replace('}', '').trim();
+					    }else{
+					    	href4 = a.href;
+					    }
+					  }
+					});
+				}
+
+				const htmlString = `
+				    <div class="gameList" style="height:190px; width:170px;display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661280.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">GATOTKACA SUPER SCATTER</div>
+					  </a>
+					</div>
+
+					<div class="gameList" style="height:190px; width:170px;display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href2+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661340.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">MAHJONG WINS WINRATEX2</div>
+					  </a>
+					</div>
+
+					<div class="gameList" style="height:190px; width:170px;display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href3+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">OLYMPUS SCATTER X10000</div>
+					  </a>
+					</div>
+
+					<div class="gameList" style="height:190px; width:170px;display:inline-block; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href4+`" bis_size="{&quot;x&quot;:191,&quot;y&quot;:1150,&quot;w&quot;:170,&quot;h&quot;:110,&quot;abs_x&quot;:191,&quot;abs_y&quot;:1150}">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661400.webp" style="width:160px; cursor: pointer; border-radius: 30px;" bis_size="{&quot;x&quot;:196,&quot;y&quot;:1078,&quot;w&quot;:160,&quot;h&quot;:160,&quot;abs_x&quot;:196,&quot;abs_y&quot;:1078}" bis_id="bn_mvouyxcw1ygjgf1n47ifgj">
+					    <div style="text-align:center; margin-top:5px" bis_skin_checked="1">STARLIGHT X5000</div>
+					  </a>
+					</div>
+				    `;
+
+				const htmlString2 = `
+					<div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661280.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">GATOTKACA SUPER SCATTER</div>
+					  </a>
+					</div>
+
+					<div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href2+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661340.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">MAHJONG WINS WINRATEX2</div>
+					  </a>
+					</div>
+
+				    <div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href3+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">OLYMPUS SCATTER X10000</div>
+					  </a>
+					</div>
+
+					<div style="height:205px; width:185px; float:left; text-align:center; vertical-align:top" bis_skin_checked="1">
+					  <a href="`+href4+`">
+					    <img src="https://imggalery.com/uploads/user_61/album_133/1759661400.webp" style="width:160px; cursor: pointer; border-radius: 30px;">
+					    <div style="text-align:center; margin-top:5px; cursor: pointer;" bis_skin_checked="1">STARLIGHT X5000</div>
+					  </a>
+					</div>
+				`;
+
+		    	const tempDiv = document.createElement('div');
+		    	if (window.location.pathname.includes("m/userarea.php")) tempDiv.innerHTML = htmlString.trim();
+		    	else tempDiv.innerHTML = htmlString2.trim();
+		    	var games = document.getElementById('ppslot');
+		    	const nodes = Array.from(tempDiv.children);
+				if (games != undefined) {
+					const firstChild = games.firstElementChild;
+					games.insertBefore(nodes[0], firstChild);
+					games.insertBefore(nodes[1], firstChild);
+					games.insertBefore(nodes[2], firstChild);
+					games.insertBefore(nodes[3], firstChild);
+				}
+		    }else{
+		    	const htmlString = `
+				    <figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759661280.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">GATOTKACA SUPER SCATTER</figcaption>
+					</figure>
+
+					<figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759661340.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">MAHJONG WINS WINRATEX2</figcaption>
+					</figure>
+
+					<figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">OLYMPUS SCATTER X10000</figcaption>
+					</figure>
+
+					<figure class="gameitem">
+					  <img src="https://imggalery.com/uploads/user_61/album_133/1759661400.webp" style="width:150px; border-radius: 30px;">
+					  <figcaption style="text-align:center; margin-top:5px;">STARLIGHT X5000</figcaption>
+					</figure>
+				    `;
+
+		    	const tempDiv = document.createElement('div');
+		    	tempDiv.innerHTML = htmlString.trim();
+		    	var games = document.getElementsByClassName('slotarea')[0];
+		    	const nodes = Array.from(tempDiv.children);
+				if (games != undefined) {
+					const firstChild = games.firstElementChild;
+					games.insertBefore(nodes[0], firstChild);
+					games.insertBefore(nodes[1], firstChild);
+					games.insertBefore(nodes[2], firstChild);
+					games.insertBefore(nodes[3], firstChild);
+				}
+			}
+
+			const htmlString3 = `
+			    <style>
+				  /* container flex */
+				  .gameContainer {
+				    display: flex;
+				    flex-wrap: wrap;
+				    gap: 16px;
+				    justify-content: center;
+				  }
+
+				  .gameContent {
+				    flex: 0 0 calc(25% - 16px); /* 4 kolom */
+				    max-width: 207px;
+				    background: #1e1e1e;
+				    border-radius: 16px;
+				    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+				    text-align: center;
+				    overflow: hidden;
+				    transition: transform 0.2s ease, box-shadow 0.2s ease;
+					float: left;
+					margin: 5px;
+					margin-bottom: 49px;
+				  }
+				  .gameContent:hover {
+				    transform: translateY(-6px);
+				    box-shadow: 0 6px 18px rgba(0,0,0,0.8);
+				  }
+
+				  .tnimg img {
+				    width: 100%;
+				    height: auto;
+				    border-bottom: 1px solid #333;
+				  }
+
+				  .tntitle {
+				    font-weight: bold;
+				    font-size: 10px;
+				    margin: 10px 0 5px;
+				    color: #fff;
+				  }
+
+				  /* switch */
+				  .ai-switch {
+				    position: relative;
+				    display: inline-block;
+				    width: 50px;
+				    height: 26px;
+				  }
+				  .ai-switch input {
+				    opacity: 0;
+				    width: 0;
+				    height: 0;
+				  }
+				  .ai-slider {
+				    position: absolute;
+				    cursor: pointer;
+				    top: 0; left: 0; right: 0; bottom: 0;
+				    background-color: #555;
+				    transition: .3s;
+				    border-radius: 34px;
+				  }
+				  .ai-slider:before {
+				    position: absolute;
+				    content: "";
+				    height: 20px; width: 20px;
+				    left: 3px;
+				    bottom: 3px;
+				    background-color: #fff;
+				    transition: .3s;
+				    border-radius: 50%;
+				  }
+				  input:checked + .ai-slider {
+				    background-color: #4CAF50;
+				  }
+				  input:checked + .ai-slider:before {
+				    transform: translateX(24px);
+				  }
+
+				  .label-text {
+				    display: block;
+				    margin-top: 6px;
+				    font-size: 10px;
+				    color: #4CAF50;
+				    font-weight: 600;
+				    padding-bottom: 12px;
+				  }
+
+				  /* responsif */
+				  @media (max-width: 768px) {
+				    .gameContent {
+				      flex: 0 0 calc(50% - 16px); /* 2 kolom */
+				    }
+				  }
+				  @media (max-width: 480px) {
+				    .gameContent {
+				      flex: 0 0 100%; /* 1 kolom */
+				    }
+				  }
+				</style>
+
+				<div class="gameContent" `+(window.location.pathname.includes("m/userarea.php") ? 'style="margin-left: 50px;"' : '')+`>
+				  <div class="tnimg">
+				    <a href="`+href+`">
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759661280.webp" alt="Gatotkaca Super Scatter">
+				    </a>
+				  </div>
+				  <div class="tntitle">Gatotkaca Super Scatter</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2<br>Gatotkaca Super Scatter</span>
+				</div>
+
+				<div class="gameContent">
+				  <div class="tnimg">
+				    <a href="`+href2+`">
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759661340.webp" alt="Mahjong Wins Winratex2">
+				    </a>
+				  </div>
+				  <div class="tntitle">Mahjong Wins Winratex2</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2<br>Mahjong Wins Winratex2</span>
+				</div>
+
+				<div class="gameContent" `+(window.location.pathname.includes("m/userarea.php") ? 'style="margin-left: 50px;"' : '')+`>
+				  <div class="tnimg">
+					<a href="`+href3+`">
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759661340_1.webp" alt="Olympus Scatter X10000">
+					</a>
+				  </div>
+				  <div class="tntitle">Olympus Scatter X10000</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2<br>Olympus Scatter X10000</span>
+				</div>
+				<div class="gameContent">
+				  <div class="tnimg">
+				    <a href="`+href4+`">
+				    	<img src="https://imggalery.com/uploads/user_61/album_133/1759661400.webp" alt="Starlight X5000">
+				    </a>
+				  </div>
+				  <div class="tntitle">Starlight X5000</div>
+				  <label class="ai-switch">
+				    <input type="checkbox" `+(isVisible ? '' : 'disabled')+`>
+				    <span class="ai-slider"></span>
+				  </label>
+				  <span class="label-text">Aktifkan Kemenangan Ganda x2<br>Starlight X5000</span>
+				</div>
+				<div style="clear:both" bis_skin_checked="1"></div>
+		    `;
+
+		    if (isVisible) {
+		    	if (document.getElementById('ppslot') != undefined) {
+				    const tempDiv = document.createElement('div');
+			    	tempDiv.innerHTML = htmlString3.trim();
+			    	var games = document.getElementById('ppslot').parentElement;
+					if (games != undefined) {
+						const firstChild = games.children[0];
+						games.insertBefore(tempDiv, firstChild);
+					}
+			    }
+		    }else{
+		    	if (document.getElementsByClassName("panel-body")[0] != undefined) {
+				    const tempDiv = document.createElement('div');
+			    	tempDiv.innerHTML = htmlString3.trim();
+			    	var games = document.getElementsByClassName("panel-body")[0];
+					if (games != undefined) {
+						const firstChild = games.children[0];
+						games.insertBefore(tempDiv, firstChild);
+					}
+			    }
+		    }
+	    }
+
+
+
+		if (window.location.pathname === "/" || window.location.pathname === "/index.php") {
+			(function() {
+			  const today = new Date().toISOString().split('T')[0];
+			  const lastShown = localStorage.getItem('popupSon4DDate');
+
+			  if (lastShown !== today) {
+			    let overlay = document.createElement("div");
+			    overlay.id = "promoPopup";
+			    overlay.className = "overlay";
+			    overlay.innerHTML = `
+			      <div class="popup">
+			        <div class="popup-header">
+			          <br>
+			          <center>
+			            <img style="border-radius:100%;width:100px;height:100px;" 
+			                 src="https://imggalery.com/uploads/user_61/album_132/1759591380.jpg" 
+			                 alt="Notification">
+			          </center>
+			          <br>
+			          KEPADA SEMUA MEMBER SETIA SON4D
+			          <span class="close" onclick="closePopup111()">&times;</span>
+			        </div>
+			        <div class="popup-content">
+			          <img src="https://imggalery.com/uploads/user_61/album_132/1759590180.jpg" alt="Promo">
+			        </div>
+			        <div class="popup-text">
+			          SETIAP DEPOSIT GRATIS <b>SALDO 200.000</b> SETIAP HARINYA<br>
+			          KHUSUS 200 ORANG PERTAMA<br><br>
+			          <a href="https://t.me/officialson4d" target="_blank" style="color:#fff; text-decoration:underline;">
+			            https://t.me/officialson4d
+			          </a>
+			        </div>
+			        <div class="popup-footer">
+			          <button onclick="closePopup111()">OK</button>
+			        </div>
+			      </div>
+			    `;
+
+			    let style = document.createElement("style");
+			    style.textContent = `
+			      .overlay {
+			        position: fixed; top:0; left:0; width:100%; height:100%;
+			        background: rgb(0 0 0 / .8);
+			        display: flex; justify-content: center; align-items: center;
+			        z-index: 9999;
+			        opacity: 1; transition: opacity 0.4s ease;
+			      }
+			      .overlay.hide { opacity:0; pointer-events:none; }
+			      .popup {
+			        width: 500px; background:linear-gradient( to bottom, #0b3c6e 0%, #16508b 50%, #13477d 75%, #093057 100% );
+			        border-radius:6px;
+			        overflow:hidden; color:#fff; text-align:center;
+			        box-shadow:0 4px 20px rgb(0 0 0 / .5);
+			        transform: scale(1); transition: transform 0.4s ease;
+			      }
+			      .overlay.hide .popup { transform:scale(0.8); }
+			      .popup-header {
+			        background: linear-gradient(to bottom,#fca311,#f77f00);
+			        padding:20px; font-weight:700; font-size:18px; color:#fff;
+			        position: relative;
+			      }
+			      .popup-header .close {
+			        position:absolute; top:12px; right:15px;
+			        font-size:22px; cursor:pointer; color:#fff;
+			      }
+			      .popup-content { padding:20px; }
+			      .popup-content img { max-width:100%; border-radius:4px; }
+			      .popup-text { padding:15px; font-size:15px; color:#fff; }
+			      .popup-text b { color:red; }
+			      .popup-footer { padding:15px; }
+			      .popup-footer button {
+			        background: linear-gradient(to bottom,#fca311,#f77f00);
+			        border:none; color:#fff; font-size:16px;
+			        padding:10px 40px; border-radius:4px;
+			        cursor:pointer; transition:opacity 0.2s;
+			      }
+			      .popup-footer button:hover { opacity:.8; }
+			    `;
+
+			    document.head.appendChild(style);
+			    document.body.appendChild(overlay);
+
+			    window.closePopup111 = function() {
+			      overlay.classList.add("hide");
+			      setTimeout(() => {
+			        overlay.remove();
+			      }, 400);
+			    };
+
+			    localStorage.setItem('popupSon4DDate', today);
+			  }
+			})();
+		}
+
+
+
+
+		const styleElement = document.createElement("style");
+		styleElement.textContent = `
+			.btn-footer {
+			  background: linear-gradient(
+			    to bottom,
+			    #26dfec 0%,
+			    #0cc6e2 50%,
+			    #3996ee 75%,
+			    #1984ff 100%
+			  );
+			}
+			.active,
+			.collapsible:hover {
+			  background-color: transparent;
+			}
+			/* Style default */
+			body {
+			  margin: 0;
+			  padding: 0;
+			}
+			@media only screen and (min-width: 1001px) {
+			  body {
+			    background-image: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp");
+			  }
+			  .header {
+			    background-image: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp");
+			  }
+			  #togel-desktop {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .provider {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .transaksi {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .guidelines {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .bantuan {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .contentdata {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .footer {
+			    background: url("https://imggalery.com/uploads/user_61/album_132/1759650120.webp")
+			      #000000;
+			    background-attachment: fixed;
+			    background-size: cover;
+			  }
+			  .d-flex.gap-3.justify-content-center.align-items-center {
+			    display: none !important;
+			  }
+			  #boxprivacy {
+			    display: none !important;
+			  }
+			  .show-more.desktop-only {
+			    display: none !important;
+			  }
+			  #gt-nvframe {
+			    display: none !important;
+			  }
+			  .mobile-only {
+			    display: none;
+			  }
+			  .desktop-only {
+			    display: block;
+			  }
+			  .menu {
+			    display: flex;
+			    justify-content: space-between;
+			  }
+			}
+
+			/* Mobile (? 1000px) */
+			@media only screen and (max-width: 1000px) {
+			  body {
+			    background-image: url("");
+			  }
+			  .desktop-only {
+			    display: none;
+			  }
+			  .mobile-only {
+			    display: block;
+			  }
+			  .menu {
+			    flex-direction: column;
+			  }
+			  .content {
+			    width: 100%;
+			    padding: 0 15px;
+			  }
+			  
+			  .menu-item{
+				background: linear-gradient( to bottom, #0b3c6e 0%, #16508b 50%, #13477d 75%, #093057 100% );
+			  }
+			}
+
+
+			:root {
+			  --t1-color: var(--result-tanggal-background);
+			  --t2-color: var(--result-keluaran-color);
+			  --button-masuk-color: linear-gradient(
+			    to bottom,
+			    #dbbb2d 0%,
+			    #ffdf00 50%,
+			    #f8df01 75%,
+			    #f0c434 100%
+			  );
+			  --button-daftar-color: linear-gradient(
+			    to bottom,
+			    #26dfec 0%,
+			    #0cc6e2 50%,
+			    #3996ee 75%,
+			    #1984ff 100%
+			  );
+			  --header-background: linear-gradient(to bottom, #071d46 50%, #000000 100%);
+			  --prepend-background: linear-gradient(
+			    to bottom,
+			    #26dfec 0%,
+			    #0cc6e2 50%,
+			    #3996ee 75%,
+			    #1984ff 100%
+			  );
+			}
+			.togel-desktop {
+			  background: #000;
+			  padding-top: 1rem;
+			  padding-bottom: 1rem;
+			}
+			.login-field {
+			  width: 147px;
+			}
+			.menu-item > label,
+			.menu span {
+			  color: #fff !important;
+			}
+			.img-casino {
+			  width: 400px;
+			  max-width: 100%;
+			  border-radius: 5px;
+			  border: var(--result-border);
+			  box-shadow: 5px 3px 20px #000;
+			  transition: opacity 0.5s ease-in-out;
+			}
+			.img-casino:hover {
+			  cursor: pointer;
+			}
+			.title-infos {
+			  text-transform: uppercase;
+			  color: #000;
+			  font-size: 1.2rem;
+			  text-align: center;
+			  display: flex;
+			  align-items: center;
+			  justify-content: center;
+			}
+			.img-title-infos {
+			  width: 40px;
+			  margin-right: 0.5rem;
+			}
+			.transaksi {
+			  padding-top: 1.5rem;
+			}
+			.wrap-all-trans {
+			  display: grid;
+			  grid-template-columns: repeat(2, 1fr);
+			  gap: 5px;
+			}
+			.wrapper-transactions {
+			  width: 35rem;
+			  max-width: 100%;
+			  padding: 0.7rem;
+			  margin-bottom: 1rem;
+			  margin-top: 1rem;
+			  border-radius: 10px;
+			  border: var(--result-border);
+			  background: black;
+			}
+			.content-trans {
+			  height: 15rem;
+			  overflow: hidden;
+			  position: relative;
+			}
+			.avatar-trans {
+			  width: 2rem;
+			  max-width: 100%;
+			  margin-right: 0.7rem;
+			}
+			.avatar-wrapper {
+			  display: flex;
+			  justify-content: center;
+			}
+			.result-data:nth-child(odd) {
+			  background: var(--primary-color);
+			}
+			.result > .keluaran {
+			  color: #fcff00 !important;
+			  opacity: 1 !important;
+			}
+			.result > .tanggal,
+			.result > .pasaran,
+			.togel-title {
+			  color: #fff !important;
+			  opacity: 1 !important;
+			}
+			.appbar i {
+			  color: #fff !important;
+			}
+			.promosi a {
+			  color: #fff !important;
+			  padding: 0.5rem 1rem !important;
+			  border-bottom: 2px solid #fff !important;
+			  border-radius: 2px !important;
+			  text-transform: uppercase !important;
+			}
+
+		`;
+		document.body.insertBefore(styleElement, document.body.firstChild);
+
+		if (isMobile) {
+			document.getElementsByClassName('menu-mobile')[0].children[0].style.setProperty(
+			  "background",
+			  "linear-gradient( to bottom, #0b3c6e 0%, #16508b 50%, #13477d 75%, #093057 100% )",
+			  "important"
+			);
+		    document.getElementsByClassName('menu-mobile')[0].children[1].style.setProperty(
+			  "background",
+			  "linear-gradient( to bottom, #0b3c6e 0%, #16508b 50%, #13477d 75%, #093057 100% )",
+			  "important"
+			);
+		    document.getElementById('marquee-mobile').style.setProperty(
+			  "background",
+			  "linear-gradient( to bottom, #0b3c6e 0%, #16508b 50%, #13477d 75%, #093057 100% )",
+			  "important"
+			);
+		    document.getElementsByClassName('my-navbar')[0].style.setProperty(
+			  "background",
+			  "linear-gradient( to bottom, #0b3c6e 0%, #16508b 50%, #13477d 75%, #093057 100% )",
+			  "important"
+			);
+			document.getElementsByClassName('marquee-shadow')[0].style.setProperty(
+			  "background",
+			  "none",
+			  "important"
+			);
+			/*document.getElementById('mobilelogin').style.setProperty(
+			  "background",
+			  "linear-gradient(rgb(169 145 34) 0%, rgb(82 76 30) 50%, rgb(49 45 13) 75%, rgb(0 0 0) 100%)",
+			  "important"
+			);*/
+		}
+	}
+
+   /*function redirectCU(e) {
+   if (e.ctrlKey && e.which == 85) {
+       return false;
+   }
+   }
+   document.onkeydown = redirectCU;
+   function redirectKK(e) {
+   if (e.which == 3) {
+       return false;
+   }
+   }
+   document.oncontextmenu = redirectKK;
+   window.oncontextmenu = function () {
+               return false;
+           }
+           $(document).keydown(function (event) {
+               if (event.keyCode == 123) {
+                   return false;
+               }
+               else if ((event.ctrlKey && event.shiftKey && event.keyCode == 73) || (event.ctrlKey && event.shiftKey && event.keyCode == 74)) {
+                   return false;
+               }
+           });*/
+});
