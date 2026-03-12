@@ -29,6 +29,9 @@ document.addEventListener('DOMContentLoaded', function () {
 (function () {
     const style = document.createElement('style');
     style.innerHTML = `
+        .announcement1-design2.announcement-container {
+            background: none !important;
+        }
         @media (min-width: 1200px) {
             .container {
                 width: 1257px !important;
