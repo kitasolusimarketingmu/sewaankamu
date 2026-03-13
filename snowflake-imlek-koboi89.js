@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const style = document.createElement('style');
     style.innerHTML = `
         .announcement1-design2.announcement-container {
-            background: none !important;
+            background: #00000085 !important;
         }
         @media (min-width: 1200px) {
             .container {
