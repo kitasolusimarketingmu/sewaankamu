@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
 (function () {
     const style = document.createElement('style');
     style.innerHTML = `
-        .announcement1-design2.announcement-container {
+        .mainnavbar1-design3 {
             background: #00000085 !important;
         }
     `;
