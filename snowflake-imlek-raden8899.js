@@ -14,10 +14,17 @@ document.addEventListener('DOMContentLoaded', function () {
         body.style.setProperty("background-position", "center center", "important");
         body.style.setProperty("min-height", "100vh", "important");
 
-        const elements = document.querySelectorAll('.register .container');
-        elements.forEach(function(el) {
-          el.style.setProperty('background', '#000000c4', 'important');
-        });
+        if (window.location.pathname.startsWith('/register')){
+            const elements = document.querySelectorAll('.register');
+            elements.forEach(function(el) {
+              el.style.setProperty('background', '#000000c4', 'important');
+            });
+            
+            const el = document.querySelector('.container'); // ambil yang pertama saja
+            if (el) {
+              el.style.setProperty('background', '#000000c4', 'important');
+            }
+        }
 
         const classesToClear = ['middlebackground','mainnavbar1-design4'];
         classesToClear.forEach(cls=>{
