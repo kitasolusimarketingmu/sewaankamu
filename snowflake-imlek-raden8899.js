@@ -14,6 +14,11 @@ document.addEventListener('DOMContentLoaded', function () {
         body.style.setProperty("background-position", "center center", "important");
         body.style.setProperty("min-height", "100vh", "important");
 
+        const elements = document.querySelectorAll('.register .container');
+        elements.forEach(function(el) {
+          el.style.setProperty('background', '#000000c4', 'important');
+        });
+
         const classesToClear = ['middlebackground','mainnavbar1-design4'];
         classesToClear.forEach(cls=>{
           const els = document.getElementsByClassName(cls);
