@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+/* document.addEventListener('DOMContentLoaded', function () {
     setTimeout(function () {
         const replaceBackgroundActive = true;
         const snowflakeActive = false;
@@ -40,4 +40,4 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     `;
     document.head.appendChild(style);
-})();
+})(); */
