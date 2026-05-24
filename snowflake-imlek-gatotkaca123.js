@@ -1,58 +1,59 @@
-(function(){
+document.addEventListener("DOMContentLoaded", function () {
+  (function(){
+    const BG_URL = "https://imggalery.com/uploads/user_81/album_193/1779596220.webp";
+    const body = document.body;
 
-  const BG_URL = "https://imggalery.com/uploads/user_81/album_193/1779596220.webp";
-  const body = document.body;
+    const overlayDark = "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3))";
 
-  const overlayDark = "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3))";
+    // === 1. Hapus semua background lama di body ===
+    body.style.setProperty("background", "none", "important");
+    body.style.setProperty("background-image", "none", "important");
+    body.style.setProperty("background-color", "none", "important");
 
-  // === 1. Hapus semua background lama di body ===
-  body.style.setProperty("background", "none", "important");
-  body.style.setProperty("background-image", "none", "important");
-  body.style.setProperty("background-color", "none", "important");
+    body.style.setProperty("background-image", `${overlayDark}, url(${BG_URL})`, "important");
+    body.style.setProperty("background-size", "cover", "important");
+    body.style.setProperty("background-repeat", "no-repeat", "important");
+    body.style.setProperty("background-attachment", "fixed", "important");
+    body.style.setProperty("background-position", "center center", "important");
+    body.style.setProperty("min-height", "100vh", "important");
 
-  body.style.setProperty("background-image", `${overlayDark}, url(${BG_URL})`, "important");
-  body.style.setProperty("background-size", "cover", "important");
-  body.style.setProperty("background-repeat", "no-repeat", "important");
-  body.style.setProperty("background-attachment", "fixed", "important");
-  body.style.setProperty("background-position", "center center", "important");
-  body.style.setProperty("min-height", "100vh", "important");
-
-  // === 2. Hapus semua background di elemen tertentu agar tidak menimpa ===
-  const classesToClear = ['middlebackground','mainnavbar1-design4'];
-  classesToClear.forEach(cls=>{
-    const els = document.getElementsByClassName(cls);
-    Array.from(els).forEach(el=>{
-      el.style.setProperty("background", "none", "important");
-      el.style.setProperty("background-image", "none", "important");
+    // === 2. Hapus semua background di elemen tertentu agar tidak menimpa ===
+    const classesToClear = ['middlebackground','mainnavbar1-design4'];
+    classesToClear.forEach(cls=>{
+      const els = document.getElementsByClassName(cls);
+      Array.from(els).forEach(el=>{
+        el.style.setProperty("background", "none", "important");
+        el.style.setProperty("background-image", "none", "important");
+      });
     });
-  });
 
-  const footer = document.getElementById("footer");
-  if (footer) {
-    footer.style.setProperty("background", "#000000cc", "important");
-  }
+    const footer = document.getElementById("footer");
+    if (footer) {
+      footer.style.setProperty("background", "#000000cc", "important");
+    }
 
-  const navbar = document.querySelector('.mainnavbar1-design3'); 
-  if (navbar) {
-      navbar.style.setProperty('background', '#00000075', 'important');
-  }
+    const navbar = document.querySelector('.mainnavbar1-design3'); 
+    if (navbar) {
+        navbar.style.setProperty('background', '#00000075', 'important');
+    }
 
-  function updateSecondContainer() {
-    const containers = document.querySelectorAll('.container');
-    const secondContainer = containers[1];
+    function updateSecondContainer() {
+      const containers = document.querySelectorAll('.container');
+      const secondContainer = containers[1];
 
-    if (secondContainer) {
-      if (window.innerWidth >= 1200) {
-        secondContainer.style.setProperty('width', '1330px', 'important');
-      } else {
-        secondContainer.style.removeProperty('width');
+      if (secondContainer) {
+        if (window.innerWidth >= 1200) {
+          secondContainer.style.setProperty('width', '1330px', 'important');
+        } else {
+          secondContainer.style.removeProperty('width');
+        }
       }
     }
-  }
 
-  updateSecondContainer();
-  window.addEventListener('resize', updateSecondContainer);
-})();
+    updateSecondContainer();
+    window.addEventListener('resize', updateSecondContainer);
+  })();
+});
 
 /* document.addEventListener('DOMContentLoaded', function () {
     setTimeout(function () {
