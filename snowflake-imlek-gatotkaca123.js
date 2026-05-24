@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const footer = document.getElementById("footer");
     if (footer) {
-      footer.style.setProperty("background", "#000000cc", "important");
+      footer.style.setProperty("background", "#00000075", "important");
     }
 
     const navbar = document.querySelector('.mainnavbar1-design3'); 
