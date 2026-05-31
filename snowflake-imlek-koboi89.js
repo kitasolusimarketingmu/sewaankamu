@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   (function(){
     const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
 
-    const BG_URL = isMobile ? 'https://imggalery.com/uploads/user_81/album_193/1779945960.webp' : "https://imggalery.com/uploads/user_81/album_193/1779945900.webp";
+    const BG_URL = isMobile ? 'https://imggalery.com/uploads/user_81/album_193/1780240980.webp' : "https://imggalery.com/uploads/user_81/album_193/1780241040.webp";
     const body = document.body;
 
     const overlayDark = "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3))";
