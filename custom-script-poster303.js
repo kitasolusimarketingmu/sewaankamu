@@ -1,9 +1,11 @@
 document.addEventListener('DOMContentLoaded', function () {
-    document.querySelector('body').style.setProperty(
-        'background',
-        'url("https://embedin.site/media/premium/568/whatsapp-image-2026-06-04-at-222310.jpeg?v=ff50422a4fcb7452")',
-        'important'
-    );
+    const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
+
+    if (isMobile) {
+        document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/569/mobile.jpeg?v=5b288cdd014883bc")', 'important');
+    }else{
+        document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/568/whatsapp-image-2026-06-04-at-222310.jpeg?v=ff50422a4fcb7452")', 'important');
+    }
 
 
     (function () {
