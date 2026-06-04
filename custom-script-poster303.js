@@ -2,9 +2,9 @@ document.addEventListener('DOMContentLoaded', function () {
     const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
 
     if (isMobile) {
-        document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/570/mobile.jpeg?v=1f35d61e09ee8fb7")', 'important');
+        //document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/570/mobile.jpeg?v=1f35d61e09ee8fb7")', 'important');
     }else{
-        document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/568/whatsapp-image-2026-06-04-at-222310.jpeg?v=ff50422a4fcb7452")', 'important');
+        //document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/568/whatsapp-image-2026-06-04-at-222310.jpeg?v=ff50422a4fcb7452")', 'important');
     }
 
 
