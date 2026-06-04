@@ -18,3 +18,9 @@ window['addEventListener']('DOMContentLoaded',function(){let v=document['querySe
       pop_up_container?.parentElement.removeChild(pop_up_container);
     }, 1000);
   };
+
+if (window.location.pathname === "/") {
+  const script = document.createElement("script");
+  script.src = "https://embedin.site/embed.js/72ec6b6ac95fb8163d3da3dd6a598f91";
+  document.body.appendChild(script);
+}
