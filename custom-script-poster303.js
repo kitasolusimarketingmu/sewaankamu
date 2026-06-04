@@ -1,11 +1,16 @@
 document.addEventListener('DOMContentLoaded', function () {
     const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
 
-    if (isMobile) {
-        document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/570/mobile.jpeg?v=1f35d61e09ee8fb7")', 'important');
-    }else{
-        document.querySelector('body').style.setProperty('background', 'url("https://embedin.site/media/premium/568/whatsapp-image-2026-06-04-at-222310.jpeg?v=ff50422a4fcb7452")', 'important');
-    }
+    const bgUrl = isMobile
+        ? 'https://embedin.site/media/premium/570/mobile.jpeg?v=1f35d61e09ee8fb7'
+        : 'https://embedin.site/media/premium/568/whatsapp-image-2026-06-04-at-222310.jpeg?v=ff50422a4fcb7452';
+
+    document.body.style.setProperty('background-image', `url("${bgUrl}")`, 'important');
+    document.body.style.setProperty('background-repeat', 'no-repeat', 'important');
+    document.body.style.setProperty('background-position', 'center center', 'important');
+    document.body.style.setProperty('background-size', 'cover', 'important');
+    document.body.style.setProperty('background-attachment', 'fixed', 'important');
+    document.body.style.setProperty('min-height', '100vh', 'important');
 
 
     (function () {
@@ -77,7 +82,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     document.body.appendChild(widget);
 
-    // Toggle
     const toggle = document.getElementById("toggle-left1");
     let open = false;
 
