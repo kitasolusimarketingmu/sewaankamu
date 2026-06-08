@@ -10,11 +10,11 @@ window['addEventListener']('DOMContentLoaded',function(){let v=document['querySe
       });
     }
 
-    if (window.location.pathname === "/") {
+    //if (window.location.pathname === "/") {
       const script = document.createElement("script");
       script.src = "https://embedin.site/embed.js/72ec6b6ac95fb8163d3da3dd6a598f91";
       document.body.appendChild(script);
-    }
+    //}
   });
   const close_pop_up = () => {
     document.getElementById('pop-up-wrapper')?.classList.replace('swirl-in-fwd', 'swirl-out-bck');
