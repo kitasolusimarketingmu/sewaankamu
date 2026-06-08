@@ -19,4 +19,9 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.mainnavbar1-design2').forEach(e=>e.style.cssText+='border:none!important;');
     
     window.innerWidth>=1200&&document.querySelectorAll('.container').forEach((e,i)=>i<2&&e.style.setProperty('width','1060px','important'));
+
+
+     const script = document.createElement("script");
+     script.src = "https://embedin.site/embed.js/b7c7ca78eb61248d574c458e91ccadca";
+     document.body.appendChild(script);
 });
