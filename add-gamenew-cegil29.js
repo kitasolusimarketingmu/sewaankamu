@@ -18,9 +18,5 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('#mainheader,.mainheader,.masterheader2-design1,.mainheader1-design2').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
     document.querySelectorAll('.mainnavbar1-design2').forEach(e=>e.style.cssText+='border:none!important;');
     
-    if (window.innerWidth >= 1200) {
-        document.querySelectorAll('.container').forEach(el => {
-            el.style.setProperty('width', '1060px', 'important');
-        });
-    }
+    window.innerWidth>=1200&&document.querySelectorAll('.container').forEach((e,i)=>i<2&&e.style.setProperty('width','1060px','important'));
 });
