@@ -3,6 +3,10 @@ window['addEventListener']('DOMContentLoaded',function(){const M=document['getEl
 document.addEventListener('DOMContentLoaded', function () {
     (function(){
         const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
+
+        document.querySelectorAll('.middlebackground').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
+    document.querySelectorAll('#mainheader,.mainheader,.masterheader2-design1,.mainheader1-design2').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
+    document.querySelectorAll('.mainnavbar1-design2').forEach(e=>e.style.cssText+='border:none!important;');
     
         const BG_URL = isMobile
         ? 'https://embedin.site/media/background-2/807/chatgpt-image-10-jun-2026-234355.png?v=40f7d1971919b4cb'
