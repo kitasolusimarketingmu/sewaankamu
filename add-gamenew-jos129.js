@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function () {
         updateSecondContainer();
         window.addEventListener('resize', updateSecondContainer);
     
-        document.querySelector('.masterpage .gamenavbar1-design1 .main-navbar').style.background = '#373737e8';
+        //document.querySelector('.masterpage .gamenavbar1-design1 .main-navbar').style.background = '#373737e8';
       })();
     
     //if (window.location.pathname === "/") {
