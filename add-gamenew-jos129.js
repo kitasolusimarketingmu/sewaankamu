@@ -3,27 +3,34 @@ window['addEventListener']('DOMContentLoaded',function(){const M=document['getEl
 document.addEventListener('DOMContentLoaded', function () {
     const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
 
-    const bgUrl = isMobile
+    const BG_URL = isMobile
         ? 'https://embedin.site/media/background-2/807/chatgpt-image-10-jun-2026-234355.png?v=40f7d1971919b4cb'
         : 'https://embedin.site/media/background-2/808/whatsapp-image-2026-06-10-at-225719.jpeg?v=dcc69a543b719021';
+    const body = document.body;
 
-    document.body.style.setProperty('background-image', `url("${bgUrl}")`, 'important');
-    document.body.style.setProperty('background-repeat', 'no-repeat', 'important');
-    document.body.style.setProperty('background-position', 'center center', 'important');
-    document.body.style.setProperty('background-size', 'cover', 'important');
-    document.body.style.setProperty('background-attachment', 'fixed', 'important');
-    document.body.style.setProperty('min-height', '100vh', 'important');
-    
-    document.querySelectorAll('.middlebackground').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
-    document.querySelectorAll('#mainheader,.mainheader,.masterheader2-design1,.mainheader1-design2').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
-    document.querySelectorAll('.mainnavbar1-design2').forEach(e=>e.style.cssText+='border:none!important;');
-    document.querySelector('.mainnavbar1-design3').style.background = '#0090db99';
-    document.querySelectorAll('.mainheader.mainheader2.mainheader2-design2').forEach(el => {
-        el.style.setProperty('background', '#0090db99', 'important');
+    const overlayDark = "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3))";
+
+    // === 1. Hapus semua background lama di body ===
+    body.style.setProperty("background", "none", "important");
+    body.style.setProperty("background-image", "none", "important");
+    body.style.setProperty("background-color", "none", "important");
+
+    body.style.setProperty("background-image", `${overlayDark}, url(${BG_URL})`, "important");
+    body.style.setProperty("background-size", "cover", "important");
+    body.style.setProperty("background-repeat", "no-repeat", "important");
+    body.style.setProperty("background-attachment", "fixed", "important");
+    body.style.setProperty("background-position", "center center", "important");
+    body.style.setProperty("min-height", "100vh", "important");
+
+    // === 2. Hapus semua background di elemen tertentu agar tidak menimpa ===
+    const classesToClear = ['middlebackground','mainnavbar1-design4'];
+    classesToClear.forEach(cls=>{
+      const els = document.getElementsByClassName(cls);
+      Array.from(els).forEach(el=>{
+        el.style.setProperty("background", "none", "important");
+        el.style.setProperty("background-image", "none", "important");
+      });
     });
-    
-    window.innerWidth>=1200&&document.querySelectorAll('.container').forEach((e,i)=>i<2&&e.style.setProperty('width','1060px','important'));
-
     
     //if (window.location.pathname === "/") {
       const script = document.createElement("script");
