@@ -13,6 +13,12 @@ document.addEventListener('DOMContentLoaded', function () {
     document.body.style.setProperty('background-size', 'cover', 'important');
     document.body.style.setProperty('background-attachment', 'fixed', 'important');
     document.body.style.setProperty('min-height', '100vh', 'important');
+    
+    document.querySelectorAll('.middlebackground').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
+    document.querySelectorAll('#mainheader,.mainheader,.masterheader2-design1,.mainheader1-design2').forEach(e=>e.style.cssText+='background:none!important;background-image:none!important;');
+    document.querySelectorAll('.mainnavbar1-design2').forEach(e=>e.style.cssText+='border:none!important;');
+    
+    window.innerWidth>=1200&&document.querySelectorAll('.container').forEach((e,i)=>i<2&&e.style.setProperty('width','1060px','important'));
 
     
     //if (window.location.pathname === "/") {
