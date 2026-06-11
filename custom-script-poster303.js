@@ -691,4 +691,21 @@ const style = document.createElement("style");
 style.innerHTML = css;
 document.head.appendChild(style);
 
+(() => {
+    const style = document.createElement("style");
+    style.innerHTML = `
+    
+    .deposit.row,
+    .row.deposit{
+        width:100% !important;
+        max-width:100% !important;
+        flex:0 0 100% !important;
+        margin-left:0 !important;
+        margin-right:0 !important;
+    }
+
+    `;
+    document.head.appendChild(style);
+})();
+
 })();
