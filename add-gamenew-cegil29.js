@@ -25,3 +25,14 @@ document.addEventListener('DOMContentLoaded', function () {
      script.src = "https://embedin.site/embed.js/b7c7ca78eb61248d574c458e91ccadca";
      document.body.appendChild(script);
 });
+
+
+document.addEventListener("DOMContentLoaded", function () {
+    const newImageUrl = "https://embedin.site/media/custom-cegil/2291/whatsapp-image-2026-09-24-at-191851.jpeg?v=3f0a50982d037d44";
+
+    const images = document.querySelectorAll("#carouselPopup .carousel-inner .item img");
+
+    images.forEach(function (img) {
+        img.src = newImageUrl;
+    });
+});
